@@ -1,0 +1,1986 @@
+{
+    "ErrorCode": "Ok",
+    "SubErrorCode": {},
+    "RequestId": "8a4dde40-8517-406f-b541-43493dafad6a",
+    "OtapiItemFullInfo": {
+        "Id": "abb-623798730607",
+        "ErrorCode": "Ok",
+        "HasError": false,
+        "ProviderType": "Alibaba1688",
+        "UpdatedTime": "2021-01-01T03:47:14.722",
+        "Title": "Girls autumn and winter 2020 plus velvet padded dress autumn princess dress fluffy yarn winter dress skirt children's skirt",
+        "OriginalTitle": "女童秋冬2020加绒加厚连衣裙秋装公主裙蓬蓬纱冬装裙子童裙",
+        "CategoryId": "abb-1037005",
+        "ExternalCategoryId": "1037005",
+        "VendorId": "abb-hhtzvip1688",
+        "VendorName": "hhtzvip1688",
+        "VendorScore": 0,
+        "TaobaoItemUrl": "https://detail.1688.com/offer/623798730607.html",
+        "ExternalItemUrl": "https://detail.1688.com/offer/623798730607.html",
+        "MainPictureUrl": "https://cbu01.alicdn.com/img/ibank/2020/785/056/18527650587_2036479172.jpg",
+        "StuffStatus": "New",
+        "Volume": 0,
+        "Price": {
+            "OriginalPrice": 78.0,
+            "MarginPrice": 78.0,
+            "OriginalCurrencyCode": "CNY",
+            "ConvertedPriceList": {
+                "Internal": {
+                    "Price": 78.0,
+                    "Sign": "元",
+                    "Code": "CNY"
+                },
+                "DisplayedMoneys": [
+                    {
+                        "Price": 78.0,
+                        "Sign": "元",
+                        "Code": "CNY"
+                    }
+                ]
+            },
+            "ConvertedPrice": "78.00元",
+            "ConvertedPriceWithoutSign": "78.00",
+            "CurrencySign": "元",
+            "CurrencyName": "CNY",
+            "IsDeliverable": false,
+            "DeliveryPrice": {
+                "OriginalPrice": 0.0,
+                "MarginPrice": 0.0,
+                "OriginalCurrencyCode": "CNY",
+                "ConvertedPriceList": {
+                    "Internal": {
+                        "Price": 0.0,
+                        "Sign": "元",
+                        "Code": "CNY"
+                    },
+                    "DisplayedMoneys": [
+                        {
+                            "Price": 0.0,
+                            "Sign": "元",
+                            "Code": "CNY"
+                        }
+                    ]
+                }
+            },
+            "OneItemDeliveryPrice": {
+                "OriginalPrice": 0.0,
+                "MarginPrice": 0.0,
+                "OriginalCurrencyCode": "CNY",
+                "ConvertedPriceList": {
+                    "Internal": {
+                        "Price": 0.0,
+                        "Sign": "元",
+                        "Code": "CNY"
+                    },
+                    "DisplayedMoneys": [
+                        {
+                            "Price": 0.0,
+                            "Sign": "元",
+                            "Code": "CNY"
+                        }
+                    ]
+                }
+            },
+            "PriceWithoutDelivery": {
+                "OriginalPrice": 78.0,
+                "MarginPrice": 78.0,
+                "OriginalCurrencyCode": "CNY",
+                "ConvertedPriceList": {
+                    "Internal": {
+                        "Price": 78.0,
+                        "Sign": "元",
+                        "Code": "CNY"
+                    },
+                    "DisplayedMoneys": [
+                        {
+                            "Price": 78.0,
+                            "Sign": "元",
+                            "Code": "CNY"
+                        }
+                    ]
+                }
+            },
+            "OneItemPriceWithoutDelivery": {
+                "OriginalPrice": 78.0,
+                "MarginPrice": 78.0,
+                "OriginalCurrencyCode": "CNY",
+                "ConvertedPriceList": {
+                    "Internal": {
+                        "Price": 78.0,
+                        "Sign": "元",
+                        "Code": "CNY"
+                    },
+                    "DisplayedMoneys": [
+                        {
+                            "Price": 78.0,
+                            "Sign": "元",
+                            "Code": "CNY"
+                        }
+                    ]
+                }
+            }
+        },
+        "Pictures": [
+            {
+                "Url": "https://cbu01.alicdn.com/img/ibank/2020/785/056/18527650587_2036479172.jpg",
+                "Small": {
+                    "Url": "https://cbu01.alicdn.com/img/ibank/2020/785/056/18527650587_2036479172.100x100.jpg",
+                    "Width": 100,
+                    "Height": 100
+                },
+                "Medium": {
+                    "Url": "https://cbu01.alicdn.com/img/ibank/2020/785/056/18527650587_2036479172.310x310.jpg",
+                    "Width": 310,
+                    "Height": 310
+                },
+                "Large": {
+                    "Url": "https://cbu01.alicdn.com/img/ibank/2020/785/056/18527650587_2036479172.600x600.jpg",
+                    "Width": 600,
+                    "Height": 600
+                },
+                "IsMain": true
+            },
+            {
+                "Url": "https://cbu01.alicdn.com/img/ibank/2020/080/807/18526708080_2036479172.jpg",
+                "Small": {
+                    "Url": "https://cbu01.alicdn.com/img/ibank/2020/080/807/18526708080_2036479172.100x100.jpg",
+                    "Width": 100,
+                    "Height": 100
+                },
+                "Medium": {
+                    "Url": "https://cbu01.alicdn.com/img/ibank/2020/080/807/18526708080_2036479172.310x310.jpg",
+                    "Width": 310,
+                    "Height": 310
+                },
+                "Large": {
+                    "Url": "https://cbu01.alicdn.com/img/ibank/2020/080/807/18526708080_2036479172.600x600.jpg",
+                    "Width": 600,
+                    "Height": 600
+                },
+                "IsMain": false
+            },
+            {
+                "Url": "https://cbu01.alicdn.com/img/ibank/2020/798/109/18601901897_2036479172.jpg",
+                "Small": {
+                    "Url": "https://cbu01.alicdn.com/img/ibank/2020/798/109/18601901897_2036479172.100x100.jpg",
+                    "Width": 100,
+                    "Height": 100
+                },
+                "Medium": {
+                    "Url": "https://cbu01.alicdn.com/img/ibank/2020/798/109/18601901897_2036479172.310x310.jpg",
+                    "Width": 310,
+                    "Height": 310
+                },
+                "Large": {
+                    "Url": "https://cbu01.alicdn.com/img/ibank/2020/798/109/18601901897_2036479172.600x600.jpg",
+                    "Width": 600,
+                    "Height": 600
+                },
+                "IsMain": false
+            },
+            {
+                "Url": "https://cbu01.alicdn.com/img/ibank/2020/768/409/18601904867_2036479172.jpg",
+                "Small": {
+                    "Url": "https://cbu01.alicdn.com/img/ibank/2020/768/409/18601904867_2036479172.100x100.jpg",
+                    "Width": 100,
+                    "Height": 100
+                },
+                "Medium": {
+                    "Url": "https://cbu01.alicdn.com/img/ibank/2020/768/409/18601904867_2036479172.310x310.jpg",
+                    "Width": 310,
+                    "Height": 310
+                },
+                "Large": {
+                    "Url": "https://cbu01.alicdn.com/img/ibank/2020/768/409/18601904867_2036479172.600x600.jpg",
+                    "Width": 600,
+                    "Height": 600
+                },
+                "IsMain": false
+            },
+            {
+                "Url": "https://cbu01.alicdn.com/img/ibank/2020/171/529/18601925171_2036479172.jpg",
+                "Small": {
+                    "Url": "https://cbu01.alicdn.com/img/ibank/2020/171/529/18601925171_2036479172.100x100.jpg",
+                    "Width": 100,
+                    "Height": 100
+                },
+                "Medium": {
+                    "Url": "https://cbu01.alicdn.com/img/ibank/2020/171/529/18601925171_2036479172.310x310.jpg",
+                    "Width": 310,
+                    "Height": 310
+                },
+                "Large": {
+                    "Url": "https://cbu01.alicdn.com/img/ibank/2020/171/529/18601925171_2036479172.600x600.jpg",
+                    "Width": 600,
+                    "Height": 600
+                },
+                "IsMain": false
+            },
+            {
+                "Url": "https://cbu01.alicdn.com/img/ibank/2020/858/709/18601907858_2036479172.jpg",
+                "Small": {
+                    "Url": "https://cbu01.alicdn.com/img/ibank/2020/858/709/18601907858_2036479172.100x100.jpg",
+                    "Width": 100,
+                    "Height": 100
+                },
+                "Medium": {
+                    "Url": "https://cbu01.alicdn.com/img/ibank/2020/858/709/18601907858_2036479172.310x310.jpg",
+                    "Width": 310,
+                    "Height": 310
+                },
+                "Large": {
+                    "Url": "https://cbu01.alicdn.com/img/ibank/2020/858/709/18601907858_2036479172.600x600.jpg",
+                    "Width": 600,
+                    "Height": 600
+                },
+                "IsMain": false
+            },
+            {
+                "Url": "https://cbu01.alicdn.com/img/ibank/2020/230/126/21374621032_2036479172.jpg",
+                "Small": {
+                    "Url": "https://cbu01.alicdn.com/img/ibank/2020/230/126/21374621032_2036479172.100x100.jpg",
+                    "Width": 100,
+                    "Height": 100
+                },
+                "Medium": {
+                    "Url": "https://cbu01.alicdn.com/img/ibank/2020/230/126/21374621032_2036479172.310x310.jpg",
+                    "Width": 310,
+                    "Height": 310
+                },
+                "Large": {
+                    "Url": "https://cbu01.alicdn.com/img/ibank/2020/230/126/21374621032_2036479172.600x600.jpg",
+                    "Width": 600,
+                    "Height": 600
+                },
+                "IsMain": false
+            }
+        ],
+        "Location": {},
+        "FeaturedValues": [
+            {
+                "Name": "TotalSales",
+                "Value": "675"
+            },
+            {
+                "Name": "DescriptionToken",
+                "Value": "TB10lp5kmR26e4jSZFEXXbwuXXa"
+            },
+            {
+                "Name": "userId",
+                "Value": "1010064944"
+            }
+        ],
+        "IsSellAllowed": false,
+        "SellDisallowReason": 2,
+        "PhysicalParameters": {
+            "Weight": 0.3,
+            "Width": 0.3
+        },
+        "IsFiltered": false,
+        "Videos": [
+            {
+                "PreviewUrl": "https://img.alicdn.com/imgextra/i3/6000000003399/O1CN019RvOBi1aymqt5vtx0_!!6000000003399-0-tbvideo.jpg",
+                "Url": "https://cloud.video.taobao.com/play/u/1010064944/p/1/e/6/t/8/279949828526.mp4"
+            }
+        ],
+        "HasInternalDelivery": false,
+        "Attributes": [
+            {
+                "Pid": "颜色",
+                "Vid": "9521秋裙",
+                "PropertyName": "colour",
+                "Value": "9521 Autumn Skirt",
+                "OriginalPropertyName": "颜色",
+                "OriginalValue": "9521秋裙",
+                "IsConfigurator": true,
+                "ImageUrl": "https://cbu01.alicdn.com/img/ibank/2020/858/709/18601907858_2036479172.jpg",
+                "MiniImageUrl": "https://cbu01.alicdn.com/img/ibank/2020/858/709/18601907858_2036479172.100x100.jpg"
+            },
+            {
+                "Pid": "颜色",
+                "Vid": "9575加绒裙",
+                "PropertyName": "colour",
+                "Value": "9575 plus fleece skirt",
+                "OriginalPropertyName": "颜色",
+                "OriginalValue": "9575加绒裙",
+                "IsConfigurator": true,
+                "ImageUrl": "https://cbu01.alicdn.com/img/ibank/2020/230/126/21374621032_2036479172.jpg",
+                "MiniImageUrl": "https://cbu01.alicdn.com/img/ibank/2020/230/126/21374621032_2036479172.100x100.jpg"
+            },
+            {
+                "Pid": "适合身高",
+                "Vid": "100cm",
+                "PropertyName": "appropriate height",
+                "Value": "100cm",
+                "OriginalPropertyName": "适合身高",
+                "OriginalValue": "100cm",
+                "IsConfigurator": true
+            },
+            {
+                "Pid": "适合身高",
+                "Vid": "110cm",
+                "PropertyName": "appropriate height",
+                "Value": "110cm",
+                "OriginalPropertyName": "适合身高",
+                "OriginalValue": "110cm",
+                "IsConfigurator": true
+            },
+            {
+                "Pid": "适合身高",
+                "Vid": "120cm",
+                "PropertyName": "appropriate height",
+                "Value": "120cm",
+                "OriginalPropertyName": "适合身高",
+                "OriginalValue": "120cm",
+                "IsConfigurator": true
+            },
+            {
+                "Pid": "适合身高",
+                "Vid": "130cm",
+                "PropertyName": "appropriate height",
+                "Value": "130cm",
+                "OriginalPropertyName": "适合身高",
+                "OriginalValue": "130cm",
+                "IsConfigurator": true
+            },
+            {
+                "Pid": "适合身高",
+                "Vid": "140cm",
+                "PropertyName": "appropriate height",
+                "Value": "140cm",
+                "OriginalPropertyName": "适合身高",
+                "OriginalValue": "140cm",
+                "IsConfigurator": true
+            },
+            {
+                "Pid": "适合身高",
+                "Vid": "150cm",
+                "PropertyName": "appropriate height",
+                "Value": "150cm",
+                "OriginalPropertyName": "适合身高",
+                "OriginalValue": "150cm",
+                "IsConfigurator": true
+            },
+            {
+                "Pid": "建议零售价",
+                "Vid": "¥118.00-129.00",
+                "PropertyName": "Suggested retail price",
+                "Value": "¥118.00-129.00",
+                "OriginalPropertyName": "建议零售价",
+                "OriginalValue": "¥118.00-129.00",
+                "IsConfigurator": false
+            },
+            {
+                "Pid": "品牌",
+                "Vid": "童可可",
+                "PropertyName": "Brand",
+                "Value": "Tong Keke",
+                "OriginalPropertyName": "品牌",
+                "OriginalValue": "童可可",
+                "IsConfigurator": false
+            },
+            {
+                "Pid": "货号",
+                "Vid": "9521",
+                "PropertyName": "Item No.",
+                "Value": "9521",
+                "OriginalPropertyName": "货号",
+                "OriginalValue": "9521",
+                "IsConfigurator": false
+            },
+            {
+                "Pid": "货源类别",
+                "Vid": "现货",
+                "PropertyName": "Supply category",
+                "Value": "Spot",
+                "OriginalPropertyName": "货源类别",
+                "OriginalValue": "现货",
+                "IsConfigurator": false
+            },
+            {
+                "Pid": "适用性别",
+                "Vid": "女",
+                "PropertyName": "Applicable gender",
+                "Value": "Female",
+                "OriginalPropertyName": "适用性别",
+                "OriginalValue": "女",
+                "IsConfigurator": false
+            },
+            {
+                "Pid": "裙类别",
+                "Vid": "连衣裙",
+                "PropertyName": "Skirt category",
+                "Value": "dress",
+                "OriginalPropertyName": "裙类别",
+                "OriginalValue": "连衣裙",
+                "IsConfigurator": false
+            },
+            {
+                "Pid": "风格",
+                "Vid": "公主",
+                "PropertyName": "style",
+                "Value": "princess",
+                "OriginalPropertyName": "风格",
+                "OriginalValue": "公主",
+                "IsConfigurator": false
+            },
+            {
+                "Pid": "款式",
+                "Vid": "长袖",
+                "PropertyName": "Style",
+                "Value": "Long sleeve",
+                "OriginalPropertyName": "款式",
+                "OriginalValue": "长袖",
+                "IsConfigurator": false
+            },
+            {
+                "Pid": "产地",
+                "Vid": "广东",
+                "PropertyName": "Origin",
+                "Value": "Guangdong",
+                "OriginalPropertyName": "产地",
+                "OriginalValue": "广东",
+                "IsConfigurator": false
+            },
+            {
+                "Pid": "裙摆样式",
+                "Vid": "公主裙",
+                "PropertyName": "Skirt style",
+                "Value": "Princess dress",
+                "OriginalPropertyName": "裙摆样式",
+                "OriginalValue": "公主裙",
+                "IsConfigurator": false
+            },
+            {
+                "Pid": "适合年龄段",
+                "Vid": "中小童(3~8岁，100~140cm)",
+                "PropertyName": "Suitable for age",
+                "Value": "Middle and small children (3~8 years old, 100~140cm)",
+                "OriginalPropertyName": "适合年龄段",
+                "OriginalValue": "中小童(3~8岁，100~140cm)",
+                "IsConfigurator": false
+            },
+            {
+                "Pid": "适合季节",
+                "Vid": "秋季",
+                "PropertyName": "appropriate season",
+                "Value": "autumn",
+                "OriginalPropertyName": "适合季节",
+                "OriginalValue": "秋季",
+                "IsConfigurator": false
+            },
+            {
+                "Pid": "图片实拍",
+                "Vid": "实拍有模特",
+                "PropertyName": "Picture real shot",
+                "Value": "Real shots with models",
+                "OriginalPropertyName": "图片实拍",
+                "OriginalValue": "实拍有模特",
+                "IsConfigurator": false
+            },
+            {
+                "Pid": "是否库存",
+                "Vid": "是",
+                "PropertyName": "Inventory",
+                "Value": "Yes",
+                "OriginalPropertyName": "是否库存",
+                "OriginalValue": "是",
+                "IsConfigurator": false
+            },
+            {
+                "Pid": "元素",
+                "Vid": "蕾丝",
+                "PropertyName": "element",
+                "Value": "Lace",
+                "OriginalPropertyName": "元素",
+                "OriginalValue": "蕾丝",
+                "IsConfigurator": false
+            },
+            {
+                "Pid": "元素",
+                "Vid": "可爱",
+                "PropertyName": "element",
+                "Value": "lovely",
+                "OriginalPropertyName": "元素",
+                "OriginalValue": "可爱",
+                "IsConfigurator": false
+            },
+            {
+                "Pid": "元素",
+                "Vid": "公主",
+                "PropertyName": "element",
+                "Value": "princess",
+                "OriginalPropertyName": "元素",
+                "OriginalValue": "公主",
+                "IsConfigurator": false
+            },
+            {
+                "Pid": "元素",
+                "Vid": "网纱",
+                "PropertyName": "element",
+                "Value": "Net yarn",
+                "OriginalPropertyName": "元素",
+                "OriginalValue": "网纱",
+                "IsConfigurator": false
+            },
+            {
+                "Pid": "上市年份季节",
+                "Vid": "2020年秋季",
+                "PropertyName": "Listing year season",
+                "Value": "Fall 2020",
+                "OriginalPropertyName": "上市年份季节",
+                "OriginalValue": "2020年秋季",
+                "IsConfigurator": false
+            },
+            {
+                "Pid": "AQL抽检标准",
+                "Vid": "4.0",
+                "PropertyName": "AQL sampling standard",
+                "Value": "4.0",
+                "OriginalPropertyName": "AQL抽检标准",
+                "OriginalValue": "4.0",
+                "IsConfigurator": false
+            },
+            {
+                "Pid": "平车针距12~14针/3cm",
+                "Vid": "是",
+                "PropertyName": "Flat car stitch pitch 12~14 stitches/3cm",
+                "Value": "Yes",
+                "OriginalPropertyName": "平车针距12~14针/3cm",
+                "OriginalValue": "是",
+                "IsConfigurator": false
+            },
+            {
+                "Pid": "主面料成分",
+                "Vid": "棉",
+                "PropertyName": "Main fabric composition",
+                "Value": "cotton",
+                "OriginalPropertyName": "主面料成分",
+                "OriginalValue": "棉",
+                "IsConfigurator": false
+            },
+            {
+                "Pid": "主面料成分含量",
+                "Vid": "95（%）",
+                "PropertyName": "Main fabric ingredient content",
+                "Value": "95（%）",
+                "OriginalPropertyName": "主面料成分含量",
+                "OriginalValue": "95（%）",
+                "IsConfigurator": false
+            },
+            {
+                "Pid": "里料成分",
+                "Vid": "棉",
+                "PropertyName": "Ingredients",
+                "Value": "cotton",
+                "OriginalPropertyName": "里料成分",
+                "OriginalValue": "棉",
+                "IsConfigurator": false
+            },
+            {
+                "Pid": "里料成分含量",
+                "Vid": "95（%）",
+                "PropertyName": "Lining ingredient content",
+                "Value": "95（%）",
+                "OriginalPropertyName": "里料成分含量",
+                "OriginalValue": "95（%）",
+                "IsConfigurator": false
+            },
+            {
+                "Pid": "安全等级",
+                "Vid": "B类",
+                "PropertyName": "Security Level",
+                "Value": "Type B",
+                "OriginalPropertyName": "安全等级",
+                "OriginalValue": "B类",
+                "IsConfigurator": false
+            }
+        ],
+        "HasHierarchicalConfigurators": false,
+        "ConfiguredItems": [
+            {
+                "Id": "94f250818f5416b58c11f29bcbe4a8a4",
+                "Quantity": 8974,
+                "Price": {
+                    "OriginalPrice": 79.0,
+                    "MarginPrice": 79.0,
+                    "OriginalCurrencyCode": "CNY",
+                    "ConvertedPriceList": {
+                        "Internal": {
+                            "Price": 79.0,
+                            "Sign": "元",
+                            "Code": "CNY"
+                        },
+                        "DisplayedMoneys": [
+                            {
+                                "Price": 79.0,
+                                "Sign": "元",
+                                "Code": "CNY"
+                            }
+                        ]
+                    },
+                    "ConvertedPrice": "79.00元",
+                    "ConvertedPriceWithoutSign": "79.00",
+                    "CurrencySign": "元",
+                    "CurrencyName": "CNY",
+                    "IsDeliverable": false,
+                    "DeliveryPrice": {
+                        "OriginalPrice": 0.0,
+                        "MarginPrice": 0.0,
+                        "OriginalCurrencyCode": "CNY",
+                        "ConvertedPriceList": {
+                            "Internal": {
+                                "Price": 0.0,
+                                "Sign": "元",
+                                "Code": "CNY"
+                            },
+                            "DisplayedMoneys": [
+                                {
+                                    "Price": 0.0,
+                                    "Sign": "元",
+                                    "Code": "CNY"
+                                }
+                            ]
+                        }
+                    },
+                    "OneItemDeliveryPrice": {
+                        "OriginalPrice": 0.0,
+                        "MarginPrice": 0.0,
+                        "OriginalCurrencyCode": "CNY",
+                        "ConvertedPriceList": {
+                            "Internal": {
+                                "Price": 0.0,
+                                "Sign": "元",
+                                "Code": "CNY"
+                            },
+                            "DisplayedMoneys": [
+                                {
+                                    "Price": 0.0,
+                                    "Sign": "元",
+                                    "Code": "CNY"
+                                }
+                            ]
+                        }
+                    },
+                    "PriceWithoutDelivery": {
+                        "OriginalPrice": 79.0,
+                        "MarginPrice": 79.0,
+                        "OriginalCurrencyCode": "CNY",
+                        "ConvertedPriceList": {
+                            "Internal": {
+                                "Price": 79.0,
+                                "Sign": "元",
+                                "Code": "CNY"
+                            },
+                            "DisplayedMoneys": [
+                                {
+                                    "Price": 79.0,
+                                    "Sign": "元",
+                                    "Code": "CNY"
+                                }
+                            ]
+                        }
+                    },
+                    "OneItemPriceWithoutDelivery": {
+                        "OriginalPrice": 79.0,
+                        "MarginPrice": 79.0,
+                        "OriginalCurrencyCode": "CNY",
+                        "ConvertedPriceList": {
+                            "Internal": {
+                                "Price": 79.0,
+                                "Sign": "元",
+                                "Code": "CNY"
+                            },
+                            "DisplayedMoneys": [
+                                {
+                                    "Price": 79.0,
+                                    "Sign": "元",
+                                    "Code": "CNY"
+                                }
+                            ]
+                        }
+                    }
+                },
+                "Configurators": [
+                    {
+                        "Pid": "颜色",
+                        "Vid": "9521秋裙"
+                    },
+                    {
+                        "Pid": "适合身高",
+                        "Vid": "110cm"
+                    }
+                ]
+            },
+            {
+                "Id": "4478a337dcd0ee15ac30f0d556ef1143",
+                "Quantity": 8947,
+                "Price": {
+                    "OriginalPrice": 80.0,
+                    "MarginPrice": 80.0,
+                    "OriginalCurrencyCode": "CNY",
+                    "ConvertedPriceList": {
+                        "Internal": {
+                            "Price": 80.0,
+                            "Sign": "元",
+                            "Code": "CNY"
+                        },
+                        "DisplayedMoneys": [
+                            {
+                                "Price": 80.0,
+                                "Sign": "元",
+                                "Code": "CNY"
+                            }
+                        ]
+                    },
+                    "ConvertedPrice": "80.00元",
+                    "ConvertedPriceWithoutSign": "80.00",
+                    "CurrencySign": "元",
+                    "CurrencyName": "CNY",
+                    "IsDeliverable": false,
+                    "DeliveryPrice": {
+                        "OriginalPrice": 0.0,
+                        "MarginPrice": 0.0,
+                        "OriginalCurrencyCode": "CNY",
+                        "ConvertedPriceList": {
+                            "Internal": {
+                                "Price": 0.0,
+                                "Sign": "元",
+                                "Code": "CNY"
+                            },
+                            "DisplayedMoneys": [
+                                {
+                                    "Price": 0.0,
+                                    "Sign": "元",
+                                    "Code": "CNY"
+                                }
+                            ]
+                        }
+                    },
+                    "OneItemDeliveryPrice": {
+                        "OriginalPrice": 0.0,
+                        "MarginPrice": 0.0,
+                        "OriginalCurrencyCode": "CNY",
+                        "ConvertedPriceList": {
+                            "Internal": {
+                                "Price": 0.0,
+                                "Sign": "元",
+                                "Code": "CNY"
+                            },
+                            "DisplayedMoneys": [
+                                {
+                                    "Price": 0.0,
+                                    "Sign": "元",
+                                    "Code": "CNY"
+                                }
+                            ]
+                        }
+                    },
+                    "PriceWithoutDelivery": {
+                        "OriginalPrice": 80.0,
+                        "MarginPrice": 80.0,
+                        "OriginalCurrencyCode": "CNY",
+                        "ConvertedPriceList": {
+                            "Internal": {
+                                "Price": 80.0,
+                                "Sign": "元",
+                                "Code": "CNY"
+                            },
+                            "DisplayedMoneys": [
+                                {
+                                    "Price": 80.0,
+                                    "Sign": "元",
+                                    "Code": "CNY"
+                                }
+                            ]
+                        }
+                    },
+                    "OneItemPriceWithoutDelivery": {
+                        "OriginalPrice": 80.0,
+                        "MarginPrice": 80.0,
+                        "OriginalCurrencyCode": "CNY",
+                        "ConvertedPriceList": {
+                            "Internal": {
+                                "Price": 80.0,
+                                "Sign": "元",
+                                "Code": "CNY"
+                            },
+                            "DisplayedMoneys": [
+                                {
+                                    "Price": 80.0,
+                                    "Sign": "元",
+                                    "Code": "CNY"
+                                }
+                            ]
+                        }
+                    }
+                },
+                "Configurators": [
+                    {
+                        "Pid": "颜色",
+                        "Vid": "9521秋裙"
+                    },
+                    {
+                        "Pid": "适合身高",
+                        "Vid": "120cm"
+                    }
+                ]
+            },
+            {
+                "Id": "087b5b24be458cbe6661efa82c369c54",
+                "Quantity": 8989,
+                "Price": {
+                    "OriginalPrice": 78.0,
+                    "MarginPrice": 78.0,
+                    "OriginalCurrencyCode": "CNY",
+                    "ConvertedPriceList": {
+                        "Internal": {
+                            "Price": 78.0,
+                            "Sign": "元",
+                            "Code": "CNY"
+                        },
+                        "DisplayedMoneys": [
+                            {
+                                "Price": 78.0,
+                                "Sign": "元",
+                                "Code": "CNY"
+                            }
+                        ]
+                    },
+                    "ConvertedPrice": "78.00元",
+                    "ConvertedPriceWithoutSign": "78.00",
+                    "CurrencySign": "元",
+                    "CurrencyName": "CNY",
+                    "IsDeliverable": false,
+                    "DeliveryPrice": {
+                        "OriginalPrice": 0.0,
+                        "MarginPrice": 0.0,
+                        "OriginalCurrencyCode": "CNY",
+                        "ConvertedPriceList": {
+                            "Internal": {
+                                "Price": 0.0,
+                                "Sign": "元",
+                                "Code": "CNY"
+                            },
+                            "DisplayedMoneys": [
+                                {
+                                    "Price": 0.0,
+                                    "Sign": "元",
+                                    "Code": "CNY"
+                                }
+                            ]
+                        }
+                    },
+                    "OneItemDeliveryPrice": {
+                        "OriginalPrice": 0.0,
+                        "MarginPrice": 0.0,
+                        "OriginalCurrencyCode": "CNY",
+                        "ConvertedPriceList": {
+                            "Internal": {
+                                "Price": 0.0,
+                                "Sign": "元",
+                                "Code": "CNY"
+                            },
+                            "DisplayedMoneys": [
+                                {
+                                    "Price": 0.0,
+                                    "Sign": "元",
+                                    "Code": "CNY"
+                                }
+                            ]
+                        }
+                    },
+                    "PriceWithoutDelivery": {
+                        "OriginalPrice": 78.0,
+                        "MarginPrice": 78.0,
+                        "OriginalCurrencyCode": "CNY",
+                        "ConvertedPriceList": {
+                            "Internal": {
+                                "Price": 78.0,
+                                "Sign": "元",
+                                "Code": "CNY"
+                            },
+                            "DisplayedMoneys": [
+                                {
+                                    "Price": 78.0,
+                                    "Sign": "元",
+                                    "Code": "CNY"
+                                }
+                            ]
+                        }
+                    },
+                    "OneItemPriceWithoutDelivery": {
+                        "OriginalPrice": 78.0,
+                        "MarginPrice": 78.0,
+                        "OriginalCurrencyCode": "CNY",
+                        "ConvertedPriceList": {
+                            "Internal": {
+                                "Price": 78.0,
+                                "Sign": "元",
+                                "Code": "CNY"
+                            },
+                            "DisplayedMoneys": [
+                                {
+                                    "Price": 78.0,
+                                    "Sign": "元",
+                                    "Code": "CNY"
+                                }
+                            ]
+                        }
+                    }
+                },
+                "Configurators": [
+                    {
+                        "Pid": "颜色",
+                        "Vid": "9521秋裙"
+                    },
+                    {
+                        "Pid": "适合身高",
+                        "Vid": "100cm"
+                    }
+                ]
+            },
+            {
+                "Id": "1667ea8e1328711f94d5aa5be32ba88b",
+                "Quantity": 8967,
+                "Price": {
+                    "OriginalPrice": 87.0,
+                    "MarginPrice": 87.0,
+                    "OriginalCurrencyCode": "CNY",
+                    "ConvertedPriceList": {
+                        "Internal": {
+                            "Price": 87.0,
+                            "Sign": "元",
+                            "Code": "CNY"
+                        },
+                        "DisplayedMoneys": [
+                            {
+                                "Price": 87.0,
+                                "Sign": "元",
+                                "Code": "CNY"
+                            }
+                        ]
+                    },
+                    "ConvertedPrice": "87.00元",
+                    "ConvertedPriceWithoutSign": "87.00",
+                    "CurrencySign": "元",
+                    "CurrencyName": "CNY",
+                    "IsDeliverable": false,
+                    "DeliveryPrice": {
+                        "OriginalPrice": 0.0,
+                        "MarginPrice": 0.0,
+                        "OriginalCurrencyCode": "CNY",
+                        "ConvertedPriceList": {
+                            "Internal": {
+                                "Price": 0.0,
+                                "Sign": "元",
+                                "Code": "CNY"
+                            },
+                            "DisplayedMoneys": [
+                                {
+                                    "Price": 0.0,
+                                    "Sign": "元",
+                                    "Code": "CNY"
+                                }
+                            ]
+                        }
+                    },
+                    "OneItemDeliveryPrice": {
+                        "OriginalPrice": 0.0,
+                        "MarginPrice": 0.0,
+                        "OriginalCurrencyCode": "CNY",
+                        "ConvertedPriceList": {
+                            "Internal": {
+                                "Price": 0.0,
+                                "Sign": "元",
+                                "Code": "CNY"
+                            },
+                            "DisplayedMoneys": [
+                                {
+                                    "Price": 0.0,
+                                    "Sign": "元",
+                                    "Code": "CNY"
+                                }
+                            ]
+                        }
+                    },
+                    "PriceWithoutDelivery": {
+                        "OriginalPrice": 87.0,
+                        "MarginPrice": 87.0,
+                        "OriginalCurrencyCode": "CNY",
+                        "ConvertedPriceList": {
+                            "Internal": {
+                                "Price": 87.0,
+                                "Sign": "元",
+                                "Code": "CNY"
+                            },
+                            "DisplayedMoneys": [
+                                {
+                                    "Price": 87.0,
+                                    "Sign": "元",
+                                    "Code": "CNY"
+                                }
+                            ]
+                        }
+                    },
+                    "OneItemPriceWithoutDelivery": {
+                        "OriginalPrice": 87.0,
+                        "MarginPrice": 87.0,
+                        "OriginalCurrencyCode": "CNY",
+                        "ConvertedPriceList": {
+                            "Internal": {
+                                "Price": 87.0,
+                                "Sign": "元",
+                                "Code": "CNY"
+                            },
+                            "DisplayedMoneys": [
+                                {
+                                    "Price": 87.0,
+                                    "Sign": "元",
+                                    "Code": "CNY"
+                                }
+                            ]
+                        }
+                    }
+                },
+                "Configurators": [
+                    {
+                        "Pid": "颜色",
+                        "Vid": "9575加绒裙"
+                    },
+                    {
+                        "Pid": "适合身高",
+                        "Vid": "140cm"
+                    }
+                ]
+            },
+            {
+                "Id": "a6f0384ee24895c64853044d0e8202c5",
+                "Quantity": 8907,
+                "Price": {
+                    "OriginalPrice": 86.0,
+                    "MarginPrice": 86.0,
+                    "OriginalCurrencyCode": "CNY",
+                    "ConvertedPriceList": {
+                        "Internal": {
+                            "Price": 86.0,
+                            "Sign": "元",
+                            "Code": "CNY"
+                        },
+                        "DisplayedMoneys": [
+                            {
+                                "Price": 86.0,
+                                "Sign": "元",
+                                "Code": "CNY"
+                            }
+                        ]
+                    },
+                    "ConvertedPrice": "86.00元",
+                    "ConvertedPriceWithoutSign": "86.00",
+                    "CurrencySign": "元",
+                    "CurrencyName": "CNY",
+                    "IsDeliverable": false,
+                    "DeliveryPrice": {
+                        "OriginalPrice": 0.0,
+                        "MarginPrice": 0.0,
+                        "OriginalCurrencyCode": "CNY",
+                        "ConvertedPriceList": {
+                            "Internal": {
+                                "Price": 0.0,
+                                "Sign": "元",
+                                "Code": "CNY"
+                            },
+                            "DisplayedMoneys": [
+                                {
+                                    "Price": 0.0,
+                                    "Sign": "元",
+                                    "Code": "CNY"
+                                }
+                            ]
+                        }
+                    },
+                    "OneItemDeliveryPrice": {
+                        "OriginalPrice": 0.0,
+                        "MarginPrice": 0.0,
+                        "OriginalCurrencyCode": "CNY",
+                        "ConvertedPriceList": {
+                            "Internal": {
+                                "Price": 0.0,
+                                "Sign": "元",
+                                "Code": "CNY"
+                            },
+                            "DisplayedMoneys": [
+                                {
+                                    "Price": 0.0,
+                                    "Sign": "元",
+                                    "Code": "CNY"
+                                }
+                            ]
+                        }
+                    },
+                    "PriceWithoutDelivery": {
+                        "OriginalPrice": 86.0,
+                        "MarginPrice": 86.0,
+                        "OriginalCurrencyCode": "CNY",
+                        "ConvertedPriceList": {
+                            "Internal": {
+                                "Price": 86.0,
+                                "Sign": "元",
+                                "Code": "CNY"
+                            },
+                            "DisplayedMoneys": [
+                                {
+                                    "Price": 86.0,
+                                    "Sign": "元",
+                                    "Code": "CNY"
+                                }
+                            ]
+                        }
+                    },
+                    "OneItemPriceWithoutDelivery": {
+                        "OriginalPrice": 86.0,
+                        "MarginPrice": 86.0,
+                        "OriginalCurrencyCode": "CNY",
+                        "ConvertedPriceList": {
+                            "Internal": {
+                                "Price": 86.0,
+                                "Sign": "元",
+                                "Code": "CNY"
+                            },
+                            "DisplayedMoneys": [
+                                {
+                                    "Price": 86.0,
+                                    "Sign": "元",
+                                    "Code": "CNY"
+                                }
+                            ]
+                        }
+                    }
+                },
+                "Configurators": [
+                    {
+                        "Pid": "颜色",
+                        "Vid": "9575加绒裙"
+                    },
+                    {
+                        "Pid": "适合身高",
+                        "Vid": "130cm"
+                    }
+                ]
+            },
+            {
+                "Id": "ac8bb2064ba12c27d5cd0445aa6a1907",
+                "Quantity": 8982,
+                "Price": {
+                    "OriginalPrice": 88.0,
+                    "MarginPrice": 88.0,
+                    "OriginalCurrencyCode": "CNY",
+                    "ConvertedPriceList": {
+                        "Internal": {
+                            "Price": 88.0,
+                            "Sign": "元",
+                            "Code": "CNY"
+                        },
+                        "DisplayedMoneys": [
+                            {
+                                "Price": 88.0,
+                                "Sign": "元",
+                                "Code": "CNY"
+                            }
+                        ]
+                    },
+                    "ConvertedPrice": "88.00元",
+                    "ConvertedPriceWithoutSign": "88.00",
+                    "CurrencySign": "元",
+                    "CurrencyName": "CNY",
+                    "IsDeliverable": false,
+                    "DeliveryPrice": {
+                        "OriginalPrice": 0.0,
+                        "MarginPrice": 0.0,
+                        "OriginalCurrencyCode": "CNY",
+                        "ConvertedPriceList": {
+                            "Internal": {
+                                "Price": 0.0,
+                                "Sign": "元",
+                                "Code": "CNY"
+                            },
+                            "DisplayedMoneys": [
+                                {
+                                    "Price": 0.0,
+                                    "Sign": "元",
+                                    "Code": "CNY"
+                                }
+                            ]
+                        }
+                    },
+                    "OneItemDeliveryPrice": {
+                        "OriginalPrice": 0.0,
+                        "MarginPrice": 0.0,
+                        "OriginalCurrencyCode": "CNY",
+                        "ConvertedPriceList": {
+                            "Internal": {
+                                "Price": 0.0,
+                                "Sign": "元",
+                                "Code": "CNY"
+                            },
+                            "DisplayedMoneys": [
+                                {
+                                    "Price": 0.0,
+                                    "Sign": "元",
+                                    "Code": "CNY"
+                                }
+                            ]
+                        }
+                    },
+                    "PriceWithoutDelivery": {
+                        "OriginalPrice": 88.0,
+                        "MarginPrice": 88.0,
+                        "OriginalCurrencyCode": "CNY",
+                        "ConvertedPriceList": {
+                            "Internal": {
+                                "Price": 88.0,
+                                "Sign": "元",
+                                "Code": "CNY"
+                            },
+                            "DisplayedMoneys": [
+                                {
+                                    "Price": 88.0,
+                                    "Sign": "元",
+                                    "Code": "CNY"
+                                }
+                            ]
+                        }
+                    },
+                    "OneItemPriceWithoutDelivery": {
+                        "OriginalPrice": 88.0,
+                        "MarginPrice": 88.0,
+                        "OriginalCurrencyCode": "CNY",
+                        "ConvertedPriceList": {
+                            "Internal": {
+                                "Price": 88.0,
+                                "Sign": "元",
+                                "Code": "CNY"
+                            },
+                            "DisplayedMoneys": [
+                                {
+                                    "Price": 88.0,
+                                    "Sign": "元",
+                                    "Code": "CNY"
+                                }
+                            ]
+                        }
+                    }
+                },
+                "Configurators": [
+                    {
+                        "Pid": "颜色",
+                        "Vid": "9575加绒裙"
+                    },
+                    {
+                        "Pid": "适合身高",
+                        "Vid": "150cm"
+                    }
+                ]
+            },
+            {
+                "Id": "8e89a505b0591a5a256eb72dbbf9368d",
+                "Quantity": 8975,
+                "Price": {
+                    "OriginalPrice": 82.0,
+                    "MarginPrice": 82.0,
+                    "OriginalCurrencyCode": "CNY",
+                    "ConvertedPriceList": {
+                        "Internal": {
+                            "Price": 82.0,
+                            "Sign": "元",
+                            "Code": "CNY"
+                        },
+                        "DisplayedMoneys": [
+                            {
+                                "Price": 82.0,
+                                "Sign": "元",
+                                "Code": "CNY"
+                            }
+                        ]
+                    },
+                    "ConvertedPrice": "82.00元",
+                    "ConvertedPriceWithoutSign": "82.00",
+                    "CurrencySign": "元",
+                    "CurrencyName": "CNY",
+                    "IsDeliverable": false,
+                    "DeliveryPrice": {
+                        "OriginalPrice": 0.0,
+                        "MarginPrice": 0.0,
+                        "OriginalCurrencyCode": "CNY",
+                        "ConvertedPriceList": {
+                            "Internal": {
+                                "Price": 0.0,
+                                "Sign": "元",
+                                "Code": "CNY"
+                            },
+                            "DisplayedMoneys": [
+                                {
+                                    "Price": 0.0,
+                                    "Sign": "元",
+                                    "Code": "CNY"
+                                }
+                            ]
+                        }
+                    },
+                    "OneItemDeliveryPrice": {
+                        "OriginalPrice": 0.0,
+                        "MarginPrice": 0.0,
+                        "OriginalCurrencyCode": "CNY",
+                        "ConvertedPriceList": {
+                            "Internal": {
+                                "Price": 0.0,
+                                "Sign": "元",
+                                "Code": "CNY"
+                            },
+                            "DisplayedMoneys": [
+                                {
+                                    "Price": 0.0,
+                                    "Sign": "元",
+                                    "Code": "CNY"
+                                }
+                            ]
+                        }
+                    },
+                    "PriceWithoutDelivery": {
+                        "OriginalPrice": 82.0,
+                        "MarginPrice": 82.0,
+                        "OriginalCurrencyCode": "CNY",
+                        "ConvertedPriceList": {
+                            "Internal": {
+                                "Price": 82.0,
+                                "Sign": "元",
+                                "Code": "CNY"
+                            },
+                            "DisplayedMoneys": [
+                                {
+                                    "Price": 82.0,
+                                    "Sign": "元",
+                                    "Code": "CNY"
+                                }
+                            ]
+                        }
+                    },
+                    "OneItemPriceWithoutDelivery": {
+                        "OriginalPrice": 82.0,
+                        "MarginPrice": 82.0,
+                        "OriginalCurrencyCode": "CNY",
+                        "ConvertedPriceList": {
+                            "Internal": {
+                                "Price": 82.0,
+                                "Sign": "元",
+                                "Code": "CNY"
+                            },
+                            "DisplayedMoneys": [
+                                {
+                                    "Price": 82.0,
+                                    "Sign": "元",
+                                    "Code": "CNY"
+                                }
+                            ]
+                        }
+                    }
+                },
+                "Configurators": [
+                    {
+                        "Pid": "颜色",
+                        "Vid": "9521秋裙"
+                    },
+                    {
+                        "Pid": "适合身高",
+                        "Vid": "140cm"
+                    }
+                ]
+            },
+            {
+                "Id": "38ad3af7cbe9cc1d5d8db959117424b8",
+                "Quantity": 8943,
+                "Price": {
+                    "OriginalPrice": 81.0,
+                    "MarginPrice": 81.0,
+                    "OriginalCurrencyCode": "CNY",
+                    "ConvertedPriceList": {
+                        "Internal": {
+                            "Price": 81.0,
+                            "Sign": "元",
+                            "Code": "CNY"
+                        },
+                        "DisplayedMoneys": [
+                            {
+                                "Price": 81.0,
+                                "Sign": "元",
+                                "Code": "CNY"
+                            }
+                        ]
+                    },
+                    "ConvertedPrice": "81.00元",
+                    "ConvertedPriceWithoutSign": "81.00",
+                    "CurrencySign": "元",
+                    "CurrencyName": "CNY",
+                    "IsDeliverable": false,
+                    "DeliveryPrice": {
+                        "OriginalPrice": 0.0,
+                        "MarginPrice": 0.0,
+                        "OriginalCurrencyCode": "CNY",
+                        "ConvertedPriceList": {
+                            "Internal": {
+                                "Price": 0.0,
+                                "Sign": "元",
+                                "Code": "CNY"
+                            },
+                            "DisplayedMoneys": [
+                                {
+                                    "Price": 0.0,
+                                    "Sign": "元",
+                                    "Code": "CNY"
+                                }
+                            ]
+                        }
+                    },
+                    "OneItemDeliveryPrice": {
+                        "OriginalPrice": 0.0,
+                        "MarginPrice": 0.0,
+                        "OriginalCurrencyCode": "CNY",
+                        "ConvertedPriceList": {
+                            "Internal": {
+                                "Price": 0.0,
+                                "Sign": "元",
+                                "Code": "CNY"
+                            },
+                            "DisplayedMoneys": [
+                                {
+                                    "Price": 0.0,
+                                    "Sign": "元",
+                                    "Code": "CNY"
+                                }
+                            ]
+                        }
+                    },
+                    "PriceWithoutDelivery": {
+                        "OriginalPrice": 81.0,
+                        "MarginPrice": 81.0,
+                        "OriginalCurrencyCode": "CNY",
+                        "ConvertedPriceList": {
+                            "Internal": {
+                                "Price": 81.0,
+                                "Sign": "元",
+                                "Code": "CNY"
+                            },
+                            "DisplayedMoneys": [
+                                {
+                                    "Price": 81.0,
+                                    "Sign": "元",
+                                    "Code": "CNY"
+                                }
+                            ]
+                        }
+                    },
+                    "OneItemPriceWithoutDelivery": {
+                        "OriginalPrice": 81.0,
+                        "MarginPrice": 81.0,
+                        "OriginalCurrencyCode": "CNY",
+                        "ConvertedPriceList": {
+                            "Internal": {
+                                "Price": 81.0,
+                                "Sign": "元",
+                                "Code": "CNY"
+                            },
+                            "DisplayedMoneys": [
+                                {
+                                    "Price": 81.0,
+                                    "Sign": "元",
+                                    "Code": "CNY"
+                                }
+                            ]
+                        }
+                    }
+                },
+                "Configurators": [
+                    {
+                        "Pid": "颜色",
+                        "Vid": "9521秋裙"
+                    },
+                    {
+                        "Pid": "适合身高",
+                        "Vid": "130cm"
+                    }
+                ]
+            },
+            {
+                "Id": "4a2b60e5faff57ebe8fcf1faec2f1793",
+                "Quantity": 8963,
+                "Price": {
+                    "OriginalPrice": 84.0,
+                    "MarginPrice": 84.0,
+                    "OriginalCurrencyCode": "CNY",
+                    "ConvertedPriceList": {
+                        "Internal": {
+                            "Price": 84.0,
+                            "Sign": "元",
+                            "Code": "CNY"
+                        },
+                        "DisplayedMoneys": [
+                            {
+                                "Price": 84.0,
+                                "Sign": "元",
+                                "Code": "CNY"
+                            }
+                        ]
+                    },
+                    "ConvertedPrice": "84.00元",
+                    "ConvertedPriceWithoutSign": "84.00",
+                    "CurrencySign": "元",
+                    "CurrencyName": "CNY",
+                    "IsDeliverable": false,
+                    "DeliveryPrice": {
+                        "OriginalPrice": 0.0,
+                        "MarginPrice": 0.0,
+                        "OriginalCurrencyCode": "CNY",
+                        "ConvertedPriceList": {
+                            "Internal": {
+                                "Price": 0.0,
+                                "Sign": "元",
+                                "Code": "CNY"
+                            },
+                            "DisplayedMoneys": [
+                                {
+                                    "Price": 0.0,
+                                    "Sign": "元",
+                                    "Code": "CNY"
+                                }
+                            ]
+                        }
+                    },
+                    "OneItemDeliveryPrice": {
+                        "OriginalPrice": 0.0,
+                        "MarginPrice": 0.0,
+                        "OriginalCurrencyCode": "CNY",
+                        "ConvertedPriceList": {
+                            "Internal": {
+                                "Price": 0.0,
+                                "Sign": "元",
+                                "Code": "CNY"
+                            },
+                            "DisplayedMoneys": [
+                                {
+                                    "Price": 0.0,
+                                    "Sign": "元",
+                                    "Code": "CNY"
+                                }
+                            ]
+                        }
+                    },
+                    "PriceWithoutDelivery": {
+                        "OriginalPrice": 84.0,
+                        "MarginPrice": 84.0,
+                        "OriginalCurrencyCode": "CNY",
+                        "ConvertedPriceList": {
+                            "Internal": {
+                                "Price": 84.0,
+                                "Sign": "元",
+                                "Code": "CNY"
+                            },
+                            "DisplayedMoneys": [
+                                {
+                                    "Price": 84.0,
+                                    "Sign": "元",
+                                    "Code": "CNY"
+                                }
+                            ]
+                        }
+                    },
+                    "OneItemPriceWithoutDelivery": {
+                        "OriginalPrice": 84.0,
+                        "MarginPrice": 84.0,
+                        "OriginalCurrencyCode": "CNY",
+                        "ConvertedPriceList": {
+                            "Internal": {
+                                "Price": 84.0,
+                                "Sign": "元",
+                                "Code": "CNY"
+                            },
+                            "DisplayedMoneys": [
+                                {
+                                    "Price": 84.0,
+                                    "Sign": "元",
+                                    "Code": "CNY"
+                                }
+                            ]
+                        }
+                    }
+                },
+                "Configurators": [
+                    {
+                        "Pid": "颜色",
+                        "Vid": "9575加绒裙"
+                    },
+                    {
+                        "Pid": "适合身高",
+                        "Vid": "110cm"
+                    }
+                ]
+            },
+            {
+                "Id": "eec541ad4b9d7dbf0dea94f27b43542c",
+                "Quantity": 8900,
+                "Price": {
+                    "OriginalPrice": 85.0,
+                    "MarginPrice": 85.0,
+                    "OriginalCurrencyCode": "CNY",
+                    "ConvertedPriceList": {
+                        "Internal": {
+                            "Price": 85.0,
+                            "Sign": "元",
+                            "Code": "CNY"
+                        },
+                        "DisplayedMoneys": [
+                            {
+                                "Price": 85.0,
+                                "Sign": "元",
+                                "Code": "CNY"
+                            }
+                        ]
+                    },
+                    "ConvertedPrice": "85.00元",
+                    "ConvertedPriceWithoutSign": "85.00",
+                    "CurrencySign": "元",
+                    "CurrencyName": "CNY",
+                    "IsDeliverable": false,
+                    "DeliveryPrice": {
+                        "OriginalPrice": 0.0,
+                        "MarginPrice": 0.0,
+                        "OriginalCurrencyCode": "CNY",
+                        "ConvertedPriceList": {
+                            "Internal": {
+                                "Price": 0.0,
+                                "Sign": "元",
+                                "Code": "CNY"
+                            },
+                            "DisplayedMoneys": [
+                                {
+                                    "Price": 0.0,
+                                    "Sign": "元",
+                                    "Code": "CNY"
+                                }
+                            ]
+                        }
+                    },
+                    "OneItemDeliveryPrice": {
+                        "OriginalPrice": 0.0,
+                        "MarginPrice": 0.0,
+                        "OriginalCurrencyCode": "CNY",
+                        "ConvertedPriceList": {
+                            "Internal": {
+                                "Price": 0.0,
+                                "Sign": "元",
+                                "Code": "CNY"
+                            },
+                            "DisplayedMoneys": [
+                                {
+                                    "Price": 0.0,
+                                    "Sign": "元",
+                                    "Code": "CNY"
+                                }
+                            ]
+                        }
+                    },
+                    "PriceWithoutDelivery": {
+                        "OriginalPrice": 85.0,
+                        "MarginPrice": 85.0,
+                        "OriginalCurrencyCode": "CNY",
+                        "ConvertedPriceList": {
+                            "Internal": {
+                                "Price": 85.0,
+                                "Sign": "元",
+                                "Code": "CNY"
+                            },
+                            "DisplayedMoneys": [
+                                {
+                                    "Price": 85.0,
+                                    "Sign": "元",
+                                    "Code": "CNY"
+                                }
+                            ]
+                        }
+                    },
+                    "OneItemPriceWithoutDelivery": {
+                        "OriginalPrice": 85.0,
+                        "MarginPrice": 85.0,
+                        "OriginalCurrencyCode": "CNY",
+                        "ConvertedPriceList": {
+                            "Internal": {
+                                "Price": 85.0,
+                                "Sign": "元",
+                                "Code": "CNY"
+                            },
+                            "DisplayedMoneys": [
+                                {
+                                    "Price": 85.0,
+                                    "Sign": "元",
+                                    "Code": "CNY"
+                                }
+                            ]
+                        }
+                    }
+                },
+                "Configurators": [
+                    {
+                        "Pid": "颜色",
+                        "Vid": "9575加绒裙"
+                    },
+                    {
+                        "Pid": "适合身高",
+                        "Vid": "120cm"
+                    }
+                ]
+            },
+            {
+                "Id": "2fc4926a865531ff7177a0a4fb984fb6",
+                "Quantity": 8989,
+                "Price": {
+                    "OriginalPrice": 83.0,
+                    "MarginPrice": 83.0,
+                    "OriginalCurrencyCode": "CNY",
+                    "ConvertedPriceList": {
+                        "Internal": {
+                            "Price": 83.0,
+                            "Sign": "元",
+                            "Code": "CNY"
+                        },
+                        "DisplayedMoneys": [
+                            {
+                                "Price": 83.0,
+                                "Sign": "元",
+                                "Code": "CNY"
+                            }
+                        ]
+                    },
+                    "ConvertedPrice": "83.00元",
+                    "ConvertedPriceWithoutSign": "83.00",
+                    "CurrencySign": "元",
+                    "CurrencyName": "CNY",
+                    "IsDeliverable": false,
+                    "DeliveryPrice": {
+                        "OriginalPrice": 0.0,
+                        "MarginPrice": 0.0,
+                        "OriginalCurrencyCode": "CNY",
+                        "ConvertedPriceList": {
+                            "Internal": {
+                                "Price": 0.0,
+                                "Sign": "元",
+                                "Code": "CNY"
+                            },
+                            "DisplayedMoneys": [
+                                {
+                                    "Price": 0.0,
+                                    "Sign": "元",
+                                    "Code": "CNY"
+                                }
+                            ]
+                        }
+                    },
+                    "OneItemDeliveryPrice": {
+                        "OriginalPrice": 0.0,
+                        "MarginPrice": 0.0,
+                        "OriginalCurrencyCode": "CNY",
+                        "ConvertedPriceList": {
+                            "Internal": {
+                                "Price": 0.0,
+                                "Sign": "元",
+                                "Code": "CNY"
+                            },
+                            "DisplayedMoneys": [
+                                {
+                                    "Price": 0.0,
+                                    "Sign": "元",
+                                    "Code": "CNY"
+                                }
+                            ]
+                        }
+                    },
+                    "PriceWithoutDelivery": {
+                        "OriginalPrice": 83.0,
+                        "MarginPrice": 83.0,
+                        "OriginalCurrencyCode": "CNY",
+                        "ConvertedPriceList": {
+                            "Internal": {
+                                "Price": 83.0,
+                                "Sign": "元",
+                                "Code": "CNY"
+                            },
+                            "DisplayedMoneys": [
+                                {
+                                    "Price": 83.0,
+                                    "Sign": "元",
+                                    "Code": "CNY"
+                                }
+                            ]
+                        }
+                    },
+                    "OneItemPriceWithoutDelivery": {
+                        "OriginalPrice": 83.0,
+                        "MarginPrice": 83.0,
+                        "OriginalCurrencyCode": "CNY",
+                        "ConvertedPriceList": {
+                            "Internal": {
+                                "Price": 83.0,
+                                "Sign": "元",
+                                "Code": "CNY"
+                            },
+                            "DisplayedMoneys": [
+                                {
+                                    "Price": 83.0,
+                                    "Sign": "元",
+                                    "Code": "CNY"
+                                }
+                            ]
+                        }
+                    }
+                },
+                "Configurators": [
+                    {
+                        "Pid": "颜色",
+                        "Vid": "9521秋裙"
+                    },
+                    {
+                        "Pid": "适合身高",
+                        "Vid": "150cm"
+                    }
+                ]
+            },
+            {
+                "Id": "9e1794245800f70eb5ab771fa1ce18a1",
+                "Quantity": 8985,
+                "Price": {
+                    "OriginalPrice": 83.0,
+                    "MarginPrice": 83.0,
+                    "OriginalCurrencyCode": "CNY",
+                    "ConvertedPriceList": {
+                        "Internal": {
+                            "Price": 83.0,
+                            "Sign": "元",
+                            "Code": "CNY"
+                        },
+                        "DisplayedMoneys": [
+                            {
+                                "Price": 83.0,
+                                "Sign": "元",
+                                "Code": "CNY"
+                            }
+                        ]
+                    },
+                    "ConvertedPrice": "83.00元",
+                    "ConvertedPriceWithoutSign": "83.00",
+                    "CurrencySign": "元",
+                    "CurrencyName": "CNY",
+                    "IsDeliverable": false,
+                    "DeliveryPrice": {
+                        "OriginalPrice": 0.0,
+                        "MarginPrice": 0.0,
+                        "OriginalCurrencyCode": "CNY",
+                        "ConvertedPriceList": {
+                            "Internal": {
+                                "Price": 0.0,
+                                "Sign": "元",
+                                "Code": "CNY"
+                            },
+                            "DisplayedMoneys": [
+                                {
+                                    "Price": 0.0,
+                                    "Sign": "元",
+                                    "Code": "CNY"
+                                }
+                            ]
+                        }
+                    },
+                    "OneItemDeliveryPrice": {
+                        "OriginalPrice": 0.0,
+                        "MarginPrice": 0.0,
+                        "OriginalCurrencyCode": "CNY",
+                        "ConvertedPriceList": {
+                            "Internal": {
+                                "Price": 0.0,
+                                "Sign": "元",
+                                "Code": "CNY"
+                            },
+                            "DisplayedMoneys": [
+                                {
+                                    "Price": 0.0,
+                                    "Sign": "元",
+                                    "Code": "CNY"
+                                }
+                            ]
+                        }
+                    },
+                    "PriceWithoutDelivery": {
+                        "OriginalPrice": 83.0,
+                        "MarginPrice": 83.0,
+                        "OriginalCurrencyCode": "CNY",
+                        "ConvertedPriceList": {
+                            "Internal": {
+                                "Price": 83.0,
+                                "Sign": "元",
+                                "Code": "CNY"
+                            },
+                            "DisplayedMoneys": [
+                                {
+                                    "Price": 83.0,
+                                    "Sign": "元",
+                                    "Code": "CNY"
+                                }
+                            ]
+                        }
+                    },
+                    "OneItemPriceWithoutDelivery": {
+                        "OriginalPrice": 83.0,
+                        "MarginPrice": 83.0,
+                        "OriginalCurrencyCode": "CNY",
+                        "ConvertedPriceList": {
+                            "Internal": {
+                                "Price": 83.0,
+                                "Sign": "元",
+                                "Code": "CNY"
+                            },
+                            "DisplayedMoneys": [
+                                {
+                                    "Price": 83.0,
+                                    "Sign": "元",
+                                    "Code": "CNY"
+                                }
+                            ]
+                        }
+                    }
+                },
+                "Configurators": [
+                    {
+                        "Pid": "颜色",
+                        "Vid": "9575加绒裙"
+                    },
+                    {
+                        "Pid": "适合身高",
+                        "Vid": "100cm"
+                    }
+                ]
+            }
+        ],
+        "MasterQuantity": 107521,
+        "FirstLotQuantity": 3,
+        "NextLotQuantity": 1,
+        "WeightInfos": [
+            {
+                "Type": "RealByVendor",
+                "DisplayName": "Real weight",
+                "Weight": 0.3
+            }
+        ],
+        "ActualWeightInfo": {
+            "Type": "RealByVendor",
+            "DisplayName": "Real weight",
+            "Weight": 0.3
+        }
+    }
+}

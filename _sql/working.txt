@@ -1,0 +1,6 @@
+
+
+# order item table
+
+ALTER TABLE `mybdstore_web`.`order_item`
+ADD COLUMN `invoice_no` VARCHAR(45) NULL AFTER `due_payment`;

@@ -1,0 +1,132 @@
+.search_bar_bottom_nav {
+  list-style: none;
+  clear: both;
+
+  li {
+    float: left;
+
+    a {
+      text-decoration: none;
+      font-size: 10px;
+      padding: 5px 10px 5px 0;
+      display: block;
+      color: #121212;
+      font-weight: 600;
+
+      &:hover {
+        color: #4fa652;
+      }
+    }
+  }
+
+
+}
+
+
+table .input-group {
+  max-width: 110px;
+  margin: 0 auto;
+}
+
+.cartSmallText {
+  margin: 0;
+  font-size: 80%;
+  font-weight: 400;
+  line-height: 1.8;
+  color: #6c757d;
+}
+
+var {
+  font-style: normal;
+}
+
+.product_description {
+  .table {
+    &.table-sm {
+      th {
+        font-weight: 600;
+      }
+    }
+  }
+}
+
+.pr_detail {
+  .table {
+    font-size: 14px;
+  }
+}
+
+#breadcrumbs {
+  background-color: #e9ecef;
+}
+
+.alert {
+  .header-message {
+    border-radius: 0 !important;
+  }
+}
+
+.nestedTable {
+  tr {
+    th {
+      font-weight: 600;
+      font-size: 14px;
+      padding: 0 4px;
+      vertical-align: middle;
+      border: 1px solid #ddd;
+      border-top: none;
+      text-align: center;
+    }
+
+    td {
+      font-size: 14px;
+      padding: 0 4px;
+      vertical-align: middle;
+      border: 1px solid #ddd;
+      text-align: center;
+    }
+  }
+}
+
+.table thead th {
+  vertical-align: middle;
+  border-bottom: 2px solid #dee2e6;
+  font-weight: 600;
+}
+
+.lds-ellipsis-custom {
+  margin: 0 auto;
+  position: relative;
+  top: 50%;
+  -webkit-transform: translateY(0%);
+  transform: translateY(0%);
+  width: 64px;
+  text-align: center;
+  z-index: 999;
+}
+
+.lds-ellipsis-custom span {
+  display: inline-block;
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background: #e62e2d;
+  -webkit-animation: ball-pulse-sync 0.6s 0s infinite ease-in-out;
+  animation: ball-pulse-sync 0.6s 0s infinite ease-in-out;
+  margin-right: 4px;
+}
+
+.lds-ellipsis-custom span:last-child {
+  margin-right: 0;
+}
+
+
+.searchSuggestText {
+  display: none;
+  position: absolute;
+  width: 100%;
+  background: #565656;
+  color: #fff;
+  padding: 0 16px;
+  font-weight: 400;
+}

@@ -1,0 +1,1311 @@
+{
+  "ErrorCode": "Ok",
+  "SubErrorCode": {},
+  "RequestId": "fcf8cd89-be9d-4138-b000-5e7b76cac59f",
+  "OtapiItemFullInfo": {
+      "Id": "601024396723",
+      "ErrorCode": "Ok",
+      "HasError": false,
+      "ProviderType": "Taobao",
+      "UpdatedTime": "2020-12-26T14:24:13.441",
+      "Title": "2020 new high waist western style French niche design sense black and white color matching shirt skirt slim dress female spring",
+      "OriginalTitle": "2020新款高腰洋气法国小众设计感黑白拼色衬衫裙子显瘦连衣裙女春",
+      "CategoryId": "otc-3",
+      "ExternalCategoryId": "50010850",
+      "VendorId": "古妮卡旗舰店",
+      "VendorName": "古妮卡旗舰店",
+      "VendorScore": 0,
+      "BrandId": "6656856",
+      "BrandName": "古妮卡",
+      "TaobaoItemUrl": "https://item.taobao.com/item.htm?id=601024396723",
+      "ExternalItemUrl": "https://item.taobao.com/item.htm?id=601024396723",
+      "MainPictureUrl": "https://img.alicdn.com/imgextra/i1/2972598417/O1CN01bpC8Rf2C32GuOEYZ7_!!0-item_pic.jpg",
+      "StuffStatus": "New",
+      "Volume": 0,
+      "Price": {
+          "OriginalPrice": 139.0,
+          "MarginPrice": 139.0,
+          "OriginalCurrencyCode": "CNY",
+          "ConvertedPriceList": {
+              "Internal": {
+                  "Price": 21.31,
+                  "Sign": "$",
+                  "Code": "USD"
+              },
+              "DisplayedMoneys": [
+                  {
+                      "Price": 21.31,
+                      "Sign": "$",
+                      "Code": "USD"
+                  }
+              ]
+          },
+          "ConvertedPrice": "21.31$",
+          "ConvertedPriceWithoutSign": "21.31",
+          "CurrencySign": "$",
+          "CurrencyName": "USD",
+          "IsDeliverable": false,
+          "DeliveryPrice": {
+              "OriginalPrice": 0.0,
+              "MarginPrice": 0.0,
+              "OriginalCurrencyCode": "CNY",
+              "ConvertedPriceList": {
+                  "Internal": {
+                      "Price": 0.0,
+                      "Sign": "$",
+                      "Code": "USD"
+                  },
+                  "DisplayedMoneys": [
+                      {
+                          "Price": 0.0,
+                          "Sign": "$",
+                          "Code": "USD"
+                      }
+                  ]
+              }
+          },
+          "OneItemDeliveryPrice": {
+              "OriginalPrice": 0.0,
+              "MarginPrice": 0.0,
+              "OriginalCurrencyCode": "CNY",
+              "ConvertedPriceList": {
+                  "Internal": {
+                      "Price": 0.0,
+                      "Sign": "$",
+                      "Code": "USD"
+                  },
+                  "DisplayedMoneys": [
+                      {
+                          "Price": 0.0,
+                          "Sign": "$",
+                          "Code": "USD"
+                      }
+                  ]
+              }
+          },
+          "PriceWithoutDelivery": {
+              "OriginalPrice": 139.0,
+              "MarginPrice": 139.0,
+              "OriginalCurrencyCode": "CNY",
+              "ConvertedPriceList": {
+                  "Internal": {
+                      "Price": 21.31,
+                      "Sign": "$",
+                      "Code": "USD"
+                  },
+                  "DisplayedMoneys": [
+                      {
+                          "Price": 21.31,
+                          "Sign": "$",
+                          "Code": "USD"
+                      }
+                  ]
+              }
+          },
+          "OneItemPriceWithoutDelivery": {
+              "OriginalPrice": 139.0,
+              "MarginPrice": 139.0,
+              "OriginalCurrencyCode": "CNY",
+              "ConvertedPriceList": {
+                  "Internal": {
+                      "Price": 21.31,
+                      "Sign": "$",
+                      "Code": "USD"
+                  },
+                  "DisplayedMoneys": [
+                      {
+                          "Price": 21.31,
+                          "Sign": "$",
+                          "Code": "USD"
+                      }
+                  ]
+              }
+          }
+      },
+      "Pictures": [
+          {
+              "Url": "https://img.alicdn.com/imgextra/i1/2972598417/O1CN01bpC8Rf2C32GuOEYZ7_!!0-item_pic.jpg",
+              "Small": {
+                  "Url": "https://img.alicdn.com/imgextra/i1/2972598417/O1CN01bpC8Rf2C32GuOEYZ7_!!0-item_pic.jpg_100x100.jpg",
+                  "Width": 100,
+                  "Height": 100
+              },
+              "Medium": {
+                  "Url": "https://img.alicdn.com/imgextra/i1/2972598417/O1CN01bpC8Rf2C32GuOEYZ7_!!0-item_pic.jpg_310x310.jpg",
+                  "Width": 310,
+                  "Height": 310
+              },
+              "Large": {
+                  "Url": "https://img.alicdn.com/imgextra/i1/2972598417/O1CN01bpC8Rf2C32GuOEYZ7_!!0-item_pic.jpg_600x600.jpg",
+                  "Width": 600,
+                  "Height": 600
+              },
+              "IsMain": true
+          },
+          {
+              "Url": "https://img.alicdn.com/imgextra/i2/2972598417/O1CN01TtRbZW2C32Eyqk9RQ_!!2972598417.jpg",
+              "Small": {
+                  "Url": "https://img.alicdn.com/imgextra/i2/2972598417/O1CN01TtRbZW2C32Eyqk9RQ_!!2972598417.jpg_100x100.jpg",
+                  "Width": 100,
+                  "Height": 100
+              },
+              "Medium": {
+                  "Url": "https://img.alicdn.com/imgextra/i2/2972598417/O1CN01TtRbZW2C32Eyqk9RQ_!!2972598417.jpg_310x310.jpg",
+                  "Width": 310,
+                  "Height": 310
+              },
+              "Large": {
+                  "Url": "https://img.alicdn.com/imgextra/i2/2972598417/O1CN01TtRbZW2C32Eyqk9RQ_!!2972598417.jpg_600x600.jpg",
+                  "Width": 600,
+                  "Height": 600
+              },
+              "IsMain": false
+          },
+          {
+              "Url": "https://img.alicdn.com/imgextra/i2/2972598417/O1CN01KdPxbQ2C32ExS0Crx_!!2972598417.jpg",
+              "Small": {
+                  "Url": "https://img.alicdn.com/imgextra/i2/2972598417/O1CN01KdPxbQ2C32ExS0Crx_!!2972598417.jpg_100x100.jpg",
+                  "Width": 100,
+                  "Height": 100
+              },
+              "Medium": {
+                  "Url": "https://img.alicdn.com/imgextra/i2/2972598417/O1CN01KdPxbQ2C32ExS0Crx_!!2972598417.jpg_310x310.jpg",
+                  "Width": 310,
+                  "Height": 310
+              },
+              "Large": {
+                  "Url": "https://img.alicdn.com/imgextra/i2/2972598417/O1CN01KdPxbQ2C32ExS0Crx_!!2972598417.jpg_600x600.jpg",
+                  "Width": 600,
+                  "Height": 600
+              },
+              "IsMain": false
+          },
+          {
+              "Url": "https://img.alicdn.com/imgextra/i4/2972598417/O1CN01p8cDs02C32EsBi1Ug_!!2972598417.jpg",
+              "Small": {
+                  "Url": "https://img.alicdn.com/imgextra/i4/2972598417/O1CN01p8cDs02C32EsBi1Ug_!!2972598417.jpg_100x100.jpg",
+                  "Width": 100,
+                  "Height": 100
+              },
+              "Medium": {
+                  "Url": "https://img.alicdn.com/imgextra/i4/2972598417/O1CN01p8cDs02C32EsBi1Ug_!!2972598417.jpg_310x310.jpg",
+                  "Width": 310,
+                  "Height": 310
+              },
+              "Large": {
+                  "Url": "https://img.alicdn.com/imgextra/i4/2972598417/O1CN01p8cDs02C32EsBi1Ug_!!2972598417.jpg_600x600.jpg",
+                  "Width": 600,
+                  "Height": 600
+              },
+              "IsMain": false
+          },
+          {
+              "Url": "https://img.alicdn.com/imgextra/i4/2972598417/O1CN01vSdnwe2C32EvDEVFw_!!2972598417.jpg",
+              "Small": {
+                  "Url": "https://img.alicdn.com/imgextra/i4/2972598417/O1CN01vSdnwe2C32EvDEVFw_!!2972598417.jpg_100x100.jpg",
+                  "Width": 100,
+                  "Height": 100
+              },
+              "Medium": {
+                  "Url": "https://img.alicdn.com/imgextra/i4/2972598417/O1CN01vSdnwe2C32EvDEVFw_!!2972598417.jpg_310x310.jpg",
+                  "Width": 310,
+                  "Height": 310
+              },
+              "Large": {
+                  "Url": "https://img.alicdn.com/imgextra/i4/2972598417/O1CN01vSdnwe2C32EvDEVFw_!!2972598417.jpg_600x600.jpg",
+                  "Width": 600,
+                  "Height": 600
+              },
+              "IsMain": false
+          }
+      ],
+      "Location": {
+          "State": "Guangdong"
+      },
+      "Features": [
+          "Tmall"
+      ],
+      "FeaturedValues": [
+          {
+              "Name": "TaobaoVendorId",
+              "Value": "2972598417"
+          },
+          {
+              "Name": "CollectorId",
+              "Value": "90556844"
+          },
+          {
+              "Name": "SalesInLast30Days",
+              "Value": "10"
+          },
+          {
+              "Name": "TotalSales",
+              "Value": "9999999"
+          },
+          {
+              "Name": "DescriptionToken",
+              "Value": "TB1X8sByKH2gK0jSZJn8quT1Fla&sellerType=B"
+          }
+      ],
+      "IsSellAllowed": false,
+      "SellDisallowReason": 2,
+      "PhysicalParameters": {},
+      "IsFiltered": false,
+      "HasInternalDelivery": true,
+      "Attributes": [
+          {
+              "Pid": "20000",
+              "Vid": "6656856",
+              "PropertyName": "Brand",
+              "Value": "古妮卡",
+              "OriginalPropertyName": "品牌",
+              "OriginalValue": "古妮卡",
+              "IsConfigurator": false
+          },
+          {
+              "Pid": "20017",
+              "Vid": "494072158",
+              "PropertyName": "Suitable age",
+              "Value": "18-24 years old",
+              "OriginalPropertyName": "适用年龄",
+              "OriginalValue": "18-24周岁",
+              "IsConfigurator": false
+          },
+          {
+              "Pid": "20509",
+              "Vid": "28314",
+              "PropertyName": "size",
+              "Value": "S",
+              "ValueAlias": "S",
+              "OriginalPropertyName": "尺码",
+              "OriginalValue": "S",
+              "OriginalValueAlias": "S",
+              "IsConfigurator": true
+          },
+          {
+              "Pid": "20509",
+              "Vid": "28315",
+              "PropertyName": "size",
+              "Value": "M",
+              "ValueAlias": "M",
+              "OriginalPropertyName": "尺码",
+              "OriginalValue": "M",
+              "OriginalValueAlias": "M",
+              "IsConfigurator": true
+          },
+          {
+              "Pid": "20509",
+              "Vid": "28316",
+              "PropertyName": "size",
+              "Value": "L",
+              "ValueAlias": "L",
+              "OriginalPropertyName": "尺码",
+              "OriginalValue": "L",
+              "OriginalValueAlias": "L",
+              "IsConfigurator": true
+          },
+          {
+              "Pid": "20665",
+              "Vid": "29454",
+              "PropertyName": "pattern",
+              "Value": "Solid color",
+              "OriginalPropertyName": "图案",
+              "OriginalValue": "纯色",
+              "IsConfigurator": false
+          },
+          {
+              "Pid": "20664",
+              "Vid": "6384766",
+              "PropertyName": "style",
+              "Value": "Commute",
+              "OriginalPropertyName": "风格",
+              "OriginalValue": "通勤",
+              "IsConfigurator": false
+          },
+          {
+              "Pid": "通勤",
+              "Vid": "韩版",
+              "PropertyName": "Commute",
+              "Value": "Korean version",
+              "OriginalPropertyName": "通勤",
+              "OriginalValue": "韩版",
+              "IsConfigurator": false
+          },
+          {
+              "Pid": "20663",
+              "Vid": "20213",
+              "PropertyName": "Collar",
+              "Value": "other",
+              "OriginalPropertyName": "领型",
+              "OriginalValue": "其他",
+              "IsConfigurator": false
+          },
+          {
+              "Pid": "2047903",
+              "Vid": "29952",
+              "PropertyName": "Waist type",
+              "Value": "High waist",
+              "OriginalPropertyName": "腰型",
+              "OriginalValue": "高腰",
+              "IsConfigurator": false
+          },
+          {
+              "Pid": "31611",
+              "Vid": "103454",
+              "PropertyName": "Clothing placket",
+              "Value": "Single-breasted",
+              "OriginalPropertyName": "衣门襟",
+              "OriginalValue": "单排扣",
+              "IsConfigurator": false
+          },
+          {
+              "Pid": "1627207",
+              "Vid": "28341",
+              "PropertyName": "Color Classification",
+              "Value": "black",
+              "ValueAlias": "black",
+              "OriginalPropertyName": "颜色分类",
+              "OriginalValue": "黑色",
+              "OriginalValueAlias": "黑色",
+              "IsConfigurator": true,
+              "ImageUrl": "https://img.alicdn.com/imgextra/i4/2972598417/O1CN01hBNBhj2C32ExS4yYX_!!2972598417.jpg",
+              "MiniImageUrl": "https://img.alicdn.com/imgextra/i4/2972598417/O1CN01hBNBhj2C32ExS4yYX_!!2972598417.jpg_40x40q90.jpg"
+          },
+          {
+              "Pid": "2917380",
+              "Vid": "27414723",
+              "PropertyName": "Sleeve Type",
+              "Value": "Shirt sleeve",
+              "OriginalPropertyName": "袖型",
+              "OriginalValue": "衬衫袖",
+              "IsConfigurator": false
+          },
+          {
+              "Pid": "2576403",
+              "Vid": "3386071",
+              "PropertyName": "Combination",
+              "Value": "Single",
+              "OriginalPropertyName": "组合形式",
+              "OriginalValue": "单件",
+              "IsConfigurator": false
+          },
+          {
+              "Pid": "货号",
+              "Vid": "WDXH620C7113",
+              "PropertyName": "Item No.",
+              "Value": "WDXH620C7113",
+              "OriginalPropertyName": "货号",
+              "OriginalValue": "WDXH620C7113",
+              "IsConfigurator": false
+          },
+          {
+              "Pid": "18551851",
+              "Vid": "130318",
+              "PropertyName": "Skirt type",
+              "Value": "A-line skirt",
+              "OriginalPropertyName": "裙型",
+              "OriginalValue": "A字裙",
+              "IsConfigurator": false
+          },
+          {
+              "Pid": "年份季节",
+              "Vid": "2019年秋季",
+              "PropertyName": "Year season",
+              "Value": "Fall 2019",
+              "OriginalPropertyName": "年份季节",
+              "OriginalValue": "2019年秋季",
+              "IsConfigurator": false
+          },
+          {
+              "Pid": "20672",
+              "Vid": "29444",
+              "PropertyName": "Sleeve Length",
+              "Value": "Long sleeve",
+              "OriginalPropertyName": "袖长",
+              "OriginalValue": "长袖",
+              "IsConfigurator": false
+          },
+          {
+              "Pid": "2046925",
+              "Vid": "29962",
+              "PropertyName": "Skirt length",
+              "Value": "Mid skirt",
+              "OriginalPropertyName": "裙长",
+              "OriginalValue": "中裙",
+              "IsConfigurator": false
+          },
+          {
+              "Pid": "18560353",
+              "Vid": "9142620",
+              "PropertyName": "Popular elements / process",
+              "Value": "Splicing",
+              "OriginalPropertyName": "流行元素/工艺",
+              "OriginalValue": "拼接",
+              "IsConfigurator": false
+          },
+          {
+              "Pid": "2917619",
+              "Vid": "3693451",
+              "PropertyName": "Popular elements / process",
+              "Value": "Buttons",
+              "OriginalPropertyName": "流行元素/工艺",
+              "OriginalValue": "纽扣",
+              "IsConfigurator": false
+          },
+          {
+              "Pid": "122276315",
+              "Vid": "14863995",
+              "PropertyName": "Style",
+              "Value": "Other",
+              "OriginalPropertyName": "款式",
+              "OriginalValue": "其他/other",
+              "IsConfigurator": false
+          },
+          {
+              "Pid": "148380063",
+              "Vid": "852538341",
+              "PropertyName": "Sales channel type",
+              "Value": "Pure e-commerce (only online sales)",
+              "OriginalPropertyName": "销售渠道类型",
+              "OriginalValue": "纯电商(只在线上销售)",
+              "IsConfigurator": false
+          },
+          {
+              "Pid": "148886213",
+              "Vid": "3833300",
+              "PropertyName": "Contour",
+              "Value": "Type A",
+              "OriginalPropertyName": "廓形",
+              "OriginalValue": "A型",
+              "IsConfigurator": false
+          },
+          {
+              "Pid": "材质成分",
+              "Vid": "其他100%",
+              "PropertyName": "Material composition",
+              "Value": "Other 100%",
+              "OriginalPropertyName": "材质成分",
+              "OriginalValue": "其他100%",
+              "IsConfigurator": false
+          },
+          {
+              "Pid": "颜色分类",
+              "Vid": "黑色",
+              "PropertyName": "Color Classification",
+              "Value": "black",
+              "OriginalPropertyName": "颜色分类",
+              "OriginalValue": "黑色",
+              "IsConfigurator": false,
+              "ImageUrl": "https://img.alicdn.com/imgextra/i4/2972598417/O1CN01hBNBhj2C32ExS4yYX_!!2972598417.jpg",
+              "MiniImageUrl": "https://img.alicdn.com/imgextra/i4/2972598417/O1CN01hBNBhj2C32ExS4yYX_!!2972598417.jpg_100x100q90.jpg"
+          },
+          {
+              "Pid": "尺码",
+              "Vid": "S",
+              "PropertyName": "size",
+              "Value": "S",
+              "OriginalPropertyName": "尺码",
+              "OriginalValue": "S",
+              "IsConfigurator": false
+          },
+          {
+              "Pid": "尺码",
+              "Vid": "L",
+              "PropertyName": "size",
+              "Value": "L",
+              "OriginalPropertyName": "尺码",
+              "OriginalValue": "L",
+              "IsConfigurator": false
+          },
+          {
+              "Pid": "尺码",
+              "Vid": "M",
+              "PropertyName": "size",
+              "Value": "M",
+              "OriginalPropertyName": "尺码",
+              "OriginalValue": "M",
+              "IsConfigurator": false
+          }
+      ],
+      "HasHierarchicalConfigurators": false,
+      "ConfiguredItems": [
+          {
+              "Id": "4207795389736",
+              "Quantity": 984,
+              "Price": {
+                  "OriginalPrice": 139.0,
+                  "MarginPrice": 139.0,
+                  "OriginalCurrencyCode": "CNY",
+                  "ConvertedPriceList": {
+                      "Internal": {
+                          "Price": 21.31,
+                          "Sign": "$",
+                          "Code": "USD"
+                      },
+                      "DisplayedMoneys": [
+                          {
+                              "Price": 21.31,
+                              "Sign": "$",
+                              "Code": "USD"
+                          }
+                      ]
+                  },
+                  "ConvertedPrice": "21.31$",
+                  "ConvertedPriceWithoutSign": "21.31",
+                  "CurrencySign": "$",
+                  "CurrencyName": "USD",
+                  "IsDeliverable": false,
+                  "DeliveryPrice": {
+                      "OriginalPrice": 0.0,
+                      "MarginPrice": 0.0,
+                      "OriginalCurrencyCode": "CNY",
+                      "ConvertedPriceList": {
+                          "Internal": {
+                              "Price": 0.0,
+                              "Sign": "$",
+                              "Code": "USD"
+                          },
+                          "DisplayedMoneys": [
+                              {
+                                  "Price": 0.0,
+                                  "Sign": "$",
+                                  "Code": "USD"
+                              }
+                          ]
+                      }
+                  },
+                  "OneItemDeliveryPrice": {
+                      "OriginalPrice": 0.0,
+                      "MarginPrice": 0.0,
+                      "OriginalCurrencyCode": "CNY",
+                      "ConvertedPriceList": {
+                          "Internal": {
+                              "Price": 0.0,
+                              "Sign": "$",
+                              "Code": "USD"
+                          },
+                          "DisplayedMoneys": [
+                              {
+                                  "Price": 0.0,
+                                  "Sign": "$",
+                                  "Code": "USD"
+                              }
+                          ]
+                      }
+                  },
+                  "PriceWithoutDelivery": {
+                      "OriginalPrice": 139.0,
+                      "MarginPrice": 139.0,
+                      "OriginalCurrencyCode": "CNY",
+                      "ConvertedPriceList": {
+                          "Internal": {
+                              "Price": 21.31,
+                              "Sign": "$",
+                              "Code": "USD"
+                          },
+                          "DisplayedMoneys": [
+                              {
+                                  "Price": 21.31,
+                                  "Sign": "$",
+                                  "Code": "USD"
+                              }
+                          ]
+                      }
+                  },
+                  "OneItemPriceWithoutDelivery": {
+                      "OriginalPrice": 139.0,
+                      "MarginPrice": 139.0,
+                      "OriginalCurrencyCode": "CNY",
+                      "ConvertedPriceList": {
+                          "Internal": {
+                              "Price": 21.31,
+                              "Sign": "$",
+                              "Code": "USD"
+                          },
+                          "DisplayedMoneys": [
+                              {
+                                  "Price": 21.31,
+                                  "Sign": "$",
+                                  "Code": "USD"
+                              }
+                          ]
+                      }
+                  }
+              },
+              "Configurators": [
+                  {
+                      "Pid": "20509",
+                      "Vid": "28316"
+                  },
+                  {
+                      "Pid": "1627207",
+                      "Vid": "28341"
+                  }
+              ]
+          },
+          {
+              "Id": "4207795389735",
+              "Quantity": 985,
+              "Price": {
+                  "OriginalPrice": 139.0,
+                  "MarginPrice": 139.0,
+                  "OriginalCurrencyCode": "CNY",
+                  "ConvertedPriceList": {
+                      "Internal": {
+                          "Price": 21.31,
+                          "Sign": "$",
+                          "Code": "USD"
+                      },
+                      "DisplayedMoneys": [
+                          {
+                              "Price": 21.31,
+                              "Sign": "$",
+                              "Code": "USD"
+                          }
+                      ]
+                  },
+                  "ConvertedPrice": "21.31$",
+                  "ConvertedPriceWithoutSign": "21.31",
+                  "CurrencySign": "$",
+                  "CurrencyName": "USD",
+                  "IsDeliverable": false,
+                  "DeliveryPrice": {
+                      "OriginalPrice": 0.0,
+                      "MarginPrice": 0.0,
+                      "OriginalCurrencyCode": "CNY",
+                      "ConvertedPriceList": {
+                          "Internal": {
+                              "Price": 0.0,
+                              "Sign": "$",
+                              "Code": "USD"
+                          },
+                          "DisplayedMoneys": [
+                              {
+                                  "Price": 0.0,
+                                  "Sign": "$",
+                                  "Code": "USD"
+                              }
+                          ]
+                      }
+                  },
+                  "OneItemDeliveryPrice": {
+                      "OriginalPrice": 0.0,
+                      "MarginPrice": 0.0,
+                      "OriginalCurrencyCode": "CNY",
+                      "ConvertedPriceList": {
+                          "Internal": {
+                              "Price": 0.0,
+                              "Sign": "$",
+                              "Code": "USD"
+                          },
+                          "DisplayedMoneys": [
+                              {
+                                  "Price": 0.0,
+                                  "Sign": "$",
+                                  "Code": "USD"
+                              }
+                          ]
+                      }
+                  },
+                  "PriceWithoutDelivery": {
+                      "OriginalPrice": 139.0,
+                      "MarginPrice": 139.0,
+                      "OriginalCurrencyCode": "CNY",
+                      "ConvertedPriceList": {
+                          "Internal": {
+                              "Price": 21.31,
+                              "Sign": "$",
+                              "Code": "USD"
+                          },
+                          "DisplayedMoneys": [
+                              {
+                                  "Price": 21.31,
+                                  "Sign": "$",
+                                  "Code": "USD"
+                              }
+                          ]
+                      }
+                  },
+                  "OneItemPriceWithoutDelivery": {
+                      "OriginalPrice": 139.0,
+                      "MarginPrice": 139.0,
+                      "OriginalCurrencyCode": "CNY",
+                      "ConvertedPriceList": {
+                          "Internal": {
+                              "Price": 21.31,
+                              "Sign": "$",
+                              "Code": "USD"
+                          },
+                          "DisplayedMoneys": [
+                              {
+                                  "Price": 21.31,
+                                  "Sign": "$",
+                                  "Code": "USD"
+                              }
+                          ]
+                      }
+                  }
+              },
+              "Configurators": [
+                  {
+                      "Pid": "20509",
+                      "Vid": "28315"
+                  },
+                  {
+                      "Pid": "1627207",
+                      "Vid": "28341"
+                  }
+              ]
+          },
+          {
+              "Id": "4207795389734",
+              "Quantity": 991,
+              "Price": {
+                  "OriginalPrice": 139.0,
+                  "MarginPrice": 139.0,
+                  "OriginalCurrencyCode": "CNY",
+                  "ConvertedPriceList": {
+                      "Internal": {
+                          "Price": 21.31,
+                          "Sign": "$",
+                          "Code": "USD"
+                      },
+                      "DisplayedMoneys": [
+                          {
+                              "Price": 21.31,
+                              "Sign": "$",
+                              "Code": "USD"
+                          }
+                      ]
+                  },
+                  "ConvertedPrice": "21.31$",
+                  "ConvertedPriceWithoutSign": "21.31",
+                  "CurrencySign": "$",
+                  "CurrencyName": "USD",
+                  "IsDeliverable": false,
+                  "DeliveryPrice": {
+                      "OriginalPrice": 0.0,
+                      "MarginPrice": 0.0,
+                      "OriginalCurrencyCode": "CNY",
+                      "ConvertedPriceList": {
+                          "Internal": {
+                              "Price": 0.0,
+                              "Sign": "$",
+                              "Code": "USD"
+                          },
+                          "DisplayedMoneys": [
+                              {
+                                  "Price": 0.0,
+                                  "Sign": "$",
+                                  "Code": "USD"
+                              }
+                          ]
+                      }
+                  },
+                  "OneItemDeliveryPrice": {
+                      "OriginalPrice": 0.0,
+                      "MarginPrice": 0.0,
+                      "OriginalCurrencyCode": "CNY",
+                      "ConvertedPriceList": {
+                          "Internal": {
+                              "Price": 0.0,
+                              "Sign": "$",
+                              "Code": "USD"
+                          },
+                          "DisplayedMoneys": [
+                              {
+                                  "Price": 0.0,
+                                  "Sign": "$",
+                                  "Code": "USD"
+                              }
+                          ]
+                      }
+                  },
+                  "PriceWithoutDelivery": {
+                      "OriginalPrice": 139.0,
+                      "MarginPrice": 139.0,
+                      "OriginalCurrencyCode": "CNY",
+                      "ConvertedPriceList": {
+                          "Internal": {
+                              "Price": 21.31,
+                              "Sign": "$",
+                              "Code": "USD"
+                          },
+                          "DisplayedMoneys": [
+                              {
+                                  "Price": 21.31,
+                                  "Sign": "$",
+                                  "Code": "USD"
+                              }
+                          ]
+                      }
+                  },
+                  "OneItemPriceWithoutDelivery": {
+                      "OriginalPrice": 139.0,
+                      "MarginPrice": 139.0,
+                      "OriginalCurrencyCode": "CNY",
+                      "ConvertedPriceList": {
+                          "Internal": {
+                              "Price": 21.31,
+                              "Sign": "$",
+                              "Code": "USD"
+                          },
+                          "DisplayedMoneys": [
+                              {
+                                  "Price": 21.31,
+                                  "Sign": "$",
+                                  "Code": "USD"
+                              }
+                          ]
+                      }
+                  }
+              },
+              "Configurators": [
+                  {
+                      "Pid": "20509",
+                      "Vid": "28314"
+                  },
+                  {
+                      "Pid": "1627207",
+                      "Vid": "28341"
+                  }
+              ]
+          }
+      ],
+      "MasterQuantity": 2960,
+      "Promotions": [
+          {
+              "Id": "ot-d-promotion-601024396723",
+              "ErrorCode": "Ok",
+              "HasError": false,
+              "ProviderType": "Taobao",
+              "Name": "Promotion",
+              "Price": {
+                  "OriginalPrice": 79.0,
+                  "MarginPrice": 79.0,
+                  "OriginalCurrencyCode": "CNY",
+                  "ConvertedPriceList": {
+                      "Internal": {
+                          "Price": 12.12,
+                          "Sign": "$",
+                          "Code": "USD"
+                      },
+                      "DisplayedMoneys": [
+                          {
+                              "Price": 12.12,
+                              "Sign": "$",
+                              "Code": "USD"
+                          }
+                      ]
+                  },
+                  "ConvertedPrice": "12.12$",
+                  "ConvertedPriceWithoutSign": "12.12",
+                  "CurrencySign": "$",
+                  "CurrencyName": "USD",
+                  "IsDeliverable": false,
+                  "DeliveryPrice": {
+                      "OriginalPrice": 0.0,
+                      "MarginPrice": 0.0,
+                      "OriginalCurrencyCode": "CNY",
+                      "ConvertedPriceList": {
+                          "Internal": {
+                              "Price": 0.0,
+                              "Sign": "$",
+                              "Code": "USD"
+                          },
+                          "DisplayedMoneys": [
+                              {
+                                  "Price": 0.0,
+                                  "Sign": "$",
+                                  "Code": "USD"
+                              }
+                          ]
+                      }
+                  },
+                  "OneItemDeliveryPrice": {
+                      "OriginalPrice": 0.0,
+                      "MarginPrice": 0.0,
+                      "OriginalCurrencyCode": "CNY",
+                      "ConvertedPriceList": {
+                          "Internal": {
+                              "Price": 0.0,
+                              "Sign": "$",
+                              "Code": "USD"
+                          },
+                          "DisplayedMoneys": [
+                              {
+                                  "Price": 0.0,
+                                  "Sign": "$",
+                                  "Code": "USD"
+                              }
+                          ]
+                      }
+                  },
+                  "PriceWithoutDelivery": {
+                      "OriginalPrice": 79.0,
+                      "MarginPrice": 79.0,
+                      "OriginalCurrencyCode": "CNY",
+                      "ConvertedPriceList": {
+                          "Internal": {
+                              "Price": 12.12,
+                              "Sign": "$",
+                              "Code": "USD"
+                          },
+                          "DisplayedMoneys": [
+                              {
+                                  "Price": 12.12,
+                                  "Sign": "$",
+                                  "Code": "USD"
+                              }
+                          ]
+                      }
+                  },
+                  "OneItemPriceWithoutDelivery": {
+                      "OriginalPrice": 79.0,
+                      "MarginPrice": 79.0,
+                      "OriginalCurrencyCode": "CNY",
+                      "ConvertedPriceList": {
+                          "Internal": {
+                              "Price": 12.12,
+                              "Sign": "$",
+                              "Code": "USD"
+                          },
+                          "DisplayedMoneys": [
+                              {
+                                  "Price": 12.12,
+                                  "Sign": "$",
+                                  "Code": "USD"
+                              }
+                          ]
+                      }
+                  }
+              },
+              "ConfiguredItems": [
+                  {
+                      "Price": {
+                          "OriginalPrice": 79.0,
+                          "MarginPrice": 79.0,
+                          "OriginalCurrencyCode": "CNY",
+                          "ConvertedPriceList": {
+                              "Internal": {
+                                  "Price": 12.12,
+                                  "Sign": "$",
+                                  "Code": "USD"
+                              },
+                              "DisplayedMoneys": [
+                                  {
+                                      "Price": 12.12,
+                                      "Sign": "$",
+                                      "Code": "USD"
+                                  }
+                              ]
+                          },
+                          "ConvertedPrice": "12.12$",
+                          "ConvertedPriceWithoutSign": "12.12",
+                          "CurrencySign": "$",
+                          "CurrencyName": "USD",
+                          "IsDeliverable": false,
+                          "DeliveryPrice": {
+                              "OriginalPrice": 0.0,
+                              "MarginPrice": 0.0,
+                              "OriginalCurrencyCode": "CNY",
+                              "ConvertedPriceList": {
+                                  "Internal": {
+                                      "Price": 0.0,
+                                      "Sign": "$",
+                                      "Code": "USD"
+                                  },
+                                  "DisplayedMoneys": [
+                                      {
+                                          "Price": 0.0,
+                                          "Sign": "$",
+                                          "Code": "USD"
+                                      }
+                                  ]
+                              }
+                          },
+                          "OneItemDeliveryPrice": {
+                              "OriginalPrice": 0.0,
+                              "MarginPrice": 0.0,
+                              "OriginalCurrencyCode": "CNY",
+                              "ConvertedPriceList": {
+                                  "Internal": {
+                                      "Price": 0.0,
+                                      "Sign": "$",
+                                      "Code": "USD"
+                                  },
+                                  "DisplayedMoneys": [
+                                      {
+                                          "Price": 0.0,
+                                          "Sign": "$",
+                                          "Code": "USD"
+                                      }
+                                  ]
+                              }
+                          },
+                          "PriceWithoutDelivery": {
+                              "OriginalPrice": 79.0,
+                              "MarginPrice": 79.0,
+                              "OriginalCurrencyCode": "CNY",
+                              "ConvertedPriceList": {
+                                  "Internal": {
+                                      "Price": 12.12,
+                                      "Sign": "$",
+                                      "Code": "USD"
+                                  },
+                                  "DisplayedMoneys": [
+                                      {
+                                          "Price": 12.12,
+                                          "Sign": "$",
+                                          "Code": "USD"
+                                      }
+                                  ]
+                              }
+                          },
+                          "OneItemPriceWithoutDelivery": {
+                              "OriginalPrice": 79.0,
+                              "MarginPrice": 79.0,
+                              "OriginalCurrencyCode": "CNY",
+                              "ConvertedPriceList": {
+                                  "Internal": {
+                                      "Price": 12.12,
+                                      "Sign": "$",
+                                      "Code": "USD"
+                                  },
+                                  "DisplayedMoneys": [
+                                      {
+                                          "Price": 12.12,
+                                          "Sign": "$",
+                                          "Code": "USD"
+                                      }
+                                  ]
+                              }
+                          }
+                      },
+                      "Id": "4207795389736",
+                      "ErrorCode": "Ok",
+                      "HasError": false
+                  },
+                  {
+                      "Price": {
+                          "OriginalPrice": 79.0,
+                          "MarginPrice": 79.0,
+                          "OriginalCurrencyCode": "CNY",
+                          "ConvertedPriceList": {
+                              "Internal": {
+                                  "Price": 12.12,
+                                  "Sign": "$",
+                                  "Code": "USD"
+                              },
+                              "DisplayedMoneys": [
+                                  {
+                                      "Price": 12.12,
+                                      "Sign": "$",
+                                      "Code": "USD"
+                                  }
+                              ]
+                          },
+                          "ConvertedPrice": "12.12$",
+                          "ConvertedPriceWithoutSign": "12.12",
+                          "CurrencySign": "$",
+                          "CurrencyName": "USD",
+                          "IsDeliverable": false,
+                          "DeliveryPrice": {
+                              "OriginalPrice": 0.0,
+                              "MarginPrice": 0.0,
+                              "OriginalCurrencyCode": "CNY",
+                              "ConvertedPriceList": {
+                                  "Internal": {
+                                      "Price": 0.0,
+                                      "Sign": "$",
+                                      "Code": "USD"
+                                  },
+                                  "DisplayedMoneys": [
+                                      {
+                                          "Price": 0.0,
+                                          "Sign": "$",
+                                          "Code": "USD"
+                                      }
+                                  ]
+                              }
+                          },
+                          "OneItemDeliveryPrice": {
+                              "OriginalPrice": 0.0,
+                              "MarginPrice": 0.0,
+                              "OriginalCurrencyCode": "CNY",
+                              "ConvertedPriceList": {
+                                  "Internal": {
+                                      "Price": 0.0,
+                                      "Sign": "$",
+                                      "Code": "USD"
+                                  },
+                                  "DisplayedMoneys": [
+                                      {
+                                          "Price": 0.0,
+                                          "Sign": "$",
+                                          "Code": "USD"
+                                      }
+                                  ]
+                              }
+                          },
+                          "PriceWithoutDelivery": {
+                              "OriginalPrice": 79.0,
+                              "MarginPrice": 79.0,
+                              "OriginalCurrencyCode": "CNY",
+                              "ConvertedPriceList": {
+                                  "Internal": {
+                                      "Price": 12.12,
+                                      "Sign": "$",
+                                      "Code": "USD"
+                                  },
+                                  "DisplayedMoneys": [
+                                      {
+                                          "Price": 12.12,
+                                          "Sign": "$",
+                                          "Code": "USD"
+                                      }
+                                  ]
+                              }
+                          },
+                          "OneItemPriceWithoutDelivery": {
+                              "OriginalPrice": 79.0,
+                              "MarginPrice": 79.0,
+                              "OriginalCurrencyCode": "CNY",
+                              "ConvertedPriceList": {
+                                  "Internal": {
+                                      "Price": 12.12,
+                                      "Sign": "$",
+                                      "Code": "USD"
+                                  },
+                                  "DisplayedMoneys": [
+                                      {
+                                          "Price": 12.12,
+                                          "Sign": "$",
+                                          "Code": "USD"
+                                      }
+                                  ]
+                              }
+                          }
+                      },
+                      "Id": "4207795389735",
+                      "ErrorCode": "Ok",
+                      "HasError": false
+                  },
+                  {
+                      "Price": {
+                          "OriginalPrice": 79.0,
+                          "MarginPrice": 79.0,
+                          "OriginalCurrencyCode": "CNY",
+                          "ConvertedPriceList": {
+                              "Internal": {
+                                  "Price": 12.12,
+                                  "Sign": "$",
+                                  "Code": "USD"
+                              },
+                              "DisplayedMoneys": [
+                                  {
+                                      "Price": 12.12,
+                                      "Sign": "$",
+                                      "Code": "USD"
+                                  }
+                              ]
+                          },
+                          "ConvertedPrice": "12.12$",
+                          "ConvertedPriceWithoutSign": "12.12",
+                          "CurrencySign": "$",
+                          "CurrencyName": "USD",
+                          "IsDeliverable": false,
+                          "DeliveryPrice": {
+                              "OriginalPrice": 0.0,
+                              "MarginPrice": 0.0,
+                              "OriginalCurrencyCode": "CNY",
+                              "ConvertedPriceList": {
+                                  "Internal": {
+                                      "Price": 0.0,
+                                      "Sign": "$",
+                                      "Code": "USD"
+                                  },
+                                  "DisplayedMoneys": [
+                                      {
+                                          "Price": 0.0,
+                                          "Sign": "$",
+                                          "Code": "USD"
+                                      }
+                                  ]
+                              }
+                          },
+                          "OneItemDeliveryPrice": {
+                              "OriginalPrice": 0.0,
+                              "MarginPrice": 0.0,
+                              "OriginalCurrencyCode": "CNY",
+                              "ConvertedPriceList": {
+                                  "Internal": {
+                                      "Price": 0.0,
+                                      "Sign": "$",
+                                      "Code": "USD"
+                                  },
+                                  "DisplayedMoneys": [
+                                      {
+                                          "Price": 0.0,
+                                          "Sign": "$",
+                                          "Code": "USD"
+                                      }
+                                  ]
+                              }
+                          },
+                          "PriceWithoutDelivery": {
+                              "OriginalPrice": 79.0,
+                              "MarginPrice": 79.0,
+                              "OriginalCurrencyCode": "CNY",
+                              "ConvertedPriceList": {
+                                  "Internal": {
+                                      "Price": 12.12,
+                                      "Sign": "$",
+                                      "Code": "USD"
+                                  },
+                                  "DisplayedMoneys": [
+                                      {
+                                          "Price": 12.12,
+                                          "Sign": "$",
+                                          "Code": "USD"
+                                      }
+                                  ]
+                              }
+                          },
+                          "OneItemPriceWithoutDelivery": {
+                              "OriginalPrice": 79.0,
+                              "MarginPrice": 79.0,
+                              "OriginalCurrencyCode": "CNY",
+                              "ConvertedPriceList": {
+                                  "Internal": {
+                                      "Price": 12.12,
+                                      "Sign": "$",
+                                      "Code": "USD"
+                                  },
+                                  "DisplayedMoneys": [
+                                      {
+                                          "Price": 12.12,
+                                          "Sign": "$",
+                                          "Code": "USD"
+                                      }
+                                  ]
+                              }
+                          }
+                      },
+                      "Id": "4207795389734",
+                      "ErrorCode": "Ok",
+                      "HasError": false
+                  }
+              ]
+          }
+      ],
+      "FirstLotQuantity": 1,
+      "NextLotQuantity": 1,
+      "WeightInfos": [],
+      "ActualWeightInfo": {
+          "Type": "Default",
+          "DisplayName": "Approx weight",
+          "Weight": 0.0
+      }
+  }
+}

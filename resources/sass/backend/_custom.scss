@@ -1,0 +1,19 @@
+body {
+    font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+.nav-sidebar > .nav-item .nav-icon.fa,
+.nav-sidebar > .nav-item .nav-icon.fas,
+.nav-sidebar > .nav-item .nav-icon.far {
+    font-size: 14px;
+}
+
+.text-sm .select2-container--default .select2-selection--multiple, select.form-control-sm~.select2-container--default .select2-selection--multiple {
+  min-height: calc(1.8125rem + 6px);
+}
+.text-sm .select2-container--default .select2-selection--single, select.form-control-sm~.select2-container--default .select2-selection--single {
+  height: calc(1.8125rem + 6px);
+}
