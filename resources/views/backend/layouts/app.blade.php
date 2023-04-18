@@ -13,11 +13,11 @@
     <meta name="description" content="@yield('meta_description', 'avanteca.com.bd')">
     <meta name="author" content="@yield('meta_author', 'Avanteca Web Apps Ltd.')">
 
-    <link rel="shortcut icon" href="{{asset('img/brand/favicon.ico')}}" type="image/x-icon">
-    <link rel="apple-touch-icon" sizes="180x180" href="{{asset('img/brand/apple-touch-icon.png')}}">
-    <link rel="icon" type="image/png" sizes="192x192" href="{{asset('img/brand/favicon192.png')}}">
-    <link rel="icon" type="image/png" sizes="32x32" href="{{asset('img/brand/favicon32.png')}}">
-    <link rel="icon" type="image/png" sizes="16x16" href="{{asset('img/brand/favicon16.png')}}">
+    <link rel="shortcut icon" type="image/x-icon" href="{{ url(get_setting('favicon')) }}">
+    <link rel="apple-touch-icon" sizes="180x180" href="{{ url(get_setting('favicon')) }}">
+    <link rel="icon" type="image/png" sizes="192x192" href="{{ url(get_setting('favicon')) }}">
+    <link rel="icon" type="image/png" sizes="32x32" href="{{ url(get_setting('favicon')) }}">
+    <link rel="icon" type="image/png" sizes="16x16" href="{{ url(get_setting('favicon')) }}">
     <link rel="manifest" href="{{asset('img/brand/site.webmanifest')}}">
 
     @yield('meta')

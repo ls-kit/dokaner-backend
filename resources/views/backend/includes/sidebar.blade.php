@@ -1,11 +1,11 @@
 <aside class="main-sidebar sidebar-light-lightblue elevation-0">
   <a href="{{route('admin.dashboard')}}" class="brand-link">
-    @if(get_setting('admin_logo_sm'))
-      <img src="{{asset(get_setting('admin_logo_sm'))}}" alt="{{app_name()}}" class="brand-image elevation-0"
+    @if(get_setting('admin_logo'))
+      <img src="{{asset(get_setting('admin_logo'))}}" alt="{{app_name()}}" class="brand-image elevation-0 h-100"
            style="opacity: .8">
     @else
-      <img src="{{asset("images/no-logo.jpg")}}" alt="{{app_name()}}" class="brand-image elevation-0"
-           style="opacity: .8">
+      <img src="{{asset("assets/images/dokaner.png")}}" alt="{{app_name()}}" class="brand-image elevation-0 h-100"
+      style="opacity: .8">
     @endif
     <span class="brand-text font-weight-bold">{{str_replace(' ','', ucfirst(app_name()))}}</span>
   </a>

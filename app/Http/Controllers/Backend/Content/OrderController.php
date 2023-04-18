@@ -175,7 +175,7 @@ class OrderController extends Controller
             $data = $request->only('out_of_stock', 'out_of_stock_type', 'status');
             $amount = $data['out_of_stock'];
         } elseif ($status === 'adjustment') {
-            $data = $request->only('adjustment', 'status');
+            $data = $request->only('adjustment');
             $amount = $data['adjustment'];
         } elseif ($status === 'refunded') {
             $data = $request->only('refunded', 'status');
@@ -228,6 +228,31 @@ class OrderController extends Controller
                 return response()->json([
                     'status' => 'success',
                     'message' => 'Shipping rate updated succcessfully!'
+                ]);
+            }
+
+            return response()->json([
+                'status' => 'error',
+                'message' => 'Order Item not found!'
+            ]);
+        }
+    }
+
+    public function updateAdjustment($id, Request $request)
+    {
+        if ($request->ajax()) {
+
+            $order_item = OrderItem::where('id', $request->item_id)->first();
+
+            if (!empty($order_item)) {
+                $order_item->update([
+                    'adjustment' => $request->adjustment,
+                    'due_payment' => $order_item->due_payment + $request->adjustment
+                ]);
+
+                return response()->json([
+                    'status' => 'success',
+                    'message' => 'Adjustment updated succcessfully!'
                 ]);
             }
 

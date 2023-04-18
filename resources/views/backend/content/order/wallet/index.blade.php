@@ -16,8 +16,8 @@
         'adjustment' => 'Adjustment',
         'refunded' => 'Refunded',
         'delivered' => 'Delivered',
-        'Waiting for Payment' => 'Waiting for Payment',
-        'Partial Paid' => 'Partial Paid',
+        'waiting-for-payment' => 'Waiting for Payment',
+        'partial-paid' => 'Partial Paid',
     ];
 @endphp
 

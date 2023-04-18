@@ -28,9 +28,6 @@ class SettingController extends Controller
         if (\request()->hasFile('frontend_logo_footer')) {
             $data['frontend_logo_footer'] = store_picture(\request()->file('frontend_logo_footer'), 'setting/logo');
         }
-        if (\request()->hasFile('frontend_logo_footer_two')) {
-            $data['frontend_logo_footer_two'] = store_picture(\request()->file('frontend_logo_footer_two'), 'setting/logo');
-        }
         if (\request()->hasFile('admin_logo')) {
             $data['admin_logo'] = store_picture(\request()->file('admin_logo'), 'setting/logo');
         }
@@ -54,20 +51,6 @@ class SettingController extends Controller
         }
 
         Setting::save_settings($data);
-
-        // FOR MAIN DOMAIN
-        $query = [
-            'currency_rate' => $data['currency_rate'],
-            'increase_rate' => $data['increase_rate']
-        ];
-
-        $client = new Client();
-        $response = $client->request('POST', 'https://admin.dokaner.com/api/v1/update-currency-rates', ['query' => $query]);
-
-        $client2 = new Client();
-        $response = $client2->request('POST', 'https://admin.alibainternational.com/api/v1/update-currency-rates', ['query' => $query]);
-        // FOR MAIN DOMAIN
-
         Cache::forget('settings'); // remove setting cache
 
         return redirect()->back()->withFlashSuccess('Setting Updated Successfully');
@@ -375,7 +358,7 @@ class SettingController extends Controller
                 $data['hp_card_five_product_two_price'] = $exclusive_data['price'];
             }
         }
-
+        
         if (isset($data['hp_card_five_product_three_id'])) {
             if ($data['hp_card_five_product_three_id'] != null) {
                 $exclusive_data = getSaleOfferProducts($data['hp_card_five_product_three_id'], $rate);
@@ -579,7 +562,6 @@ class SettingController extends Controller
         unset($data['_token']);
 
         Setting::save_settings($data);
-
         return redirect()->back()->withFlashSuccess('Cache Settings Updated Successfully');
     }
 }

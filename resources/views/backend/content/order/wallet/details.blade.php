@@ -140,11 +140,13 @@
                         @endphp
                         <tr>
                             <td class="align-middle text-center">
-                                <img class="img-fluid b2bLoading" style="width: 50px;" src="{{ asset($order->image) }}">
+                                <img class="img-fluid b2bLoading" style="width: 50px;"
+                                    src="{{ asset($order->image) }}">
                             </td>
                             <td colspan="2" class="align-middle text-center">No data</td>
                             <td class="align-middle text-center">{{ $order->quantity }}</td>
-                            <td class="align-middle text-center">{{ $currency }} {{ $order->product_value / $order->quantity }}</td>
+                            <td class="align-middle text-center">{{ $currency }}
+                                {{ $order->product_value / $order->quantity }}</td>
                             <td class="align-middle text-center">{{ $currency }} {{ $order->product_value }}</td>
                         </tr>
                     @endforelse
@@ -243,9 +245,8 @@
                         <td class="text-right" colspan="4"><b>Shipping Per KG <span style="color: orange;">(Total
                                     Weight x Shipping Fee)</span></b></td>
                         <td class="text-right"><b class="">
-                                {{-- {{ $order->actual_weight ? $order->actual_weight : 0 }} KG x --}}
-                                {{-- {{ $order->shipping_rate }} --}}
-                                <form action="{{ route('admin.order.shipping-rate', $order->id) }}" method="POST">
+                                <form action="{{ route('admin.order.shipping-rate', $order->id) }}" method="POST"
+                                    id="shippingRateForm">
                                     @method('PUT')
                                     @csrf
                                     <span class="col-md-7">
@@ -265,7 +266,21 @@
                     </tr>
 
                     <tr>
-                        <td class="text-right" colspan="5"><b>Adjustment (+-)</b></td>
+                        <td class="text-right" colspan="4"><b>Adjustment (+-)</b></td>
+                        <td class="text-right">
+                            <form action="{{ route('admin.order.adjustment', $order->id) }}" method="POST"
+                                id="adjustmentForm">
+                                @method('PUT')
+                                @csrf
+                                <input class="col-md-5" style="border: 1px solid orange; border-radius: 2px;"
+                                    type="number" name="adjustment" value="{{ $order->adjustment }}"
+                                    id="rate">
+                                <input type="text" name="item_id" value="{{ $order->id }}" hidden>
+                                <div>
+                                    <button class="btn btn-sm btn-success mt-2">Update</button>
+                                </div>
+                            </form>
+                        </td>
                         <td class="text-right">{{ $currency . ' ' . floating($order->adjustment) }}</td>
                     </tr>
 
@@ -291,7 +306,7 @@
 <script src="https://code.jquery.com/jquery-3.6.1.min.js"
     integrity="sha256-o88AwQnZB+VDvE9tvIXrMQaPlFFSUTR+nldQm1LuPXQ=" crossorigin="anonymous"></script>
 <script>
-    $('form').submit(function(e) {
+    $('#shippingRateForm').submit(function(e) {
         e.preventDefault();
         let rate = $(this).children('input[name=shipping_rate]').val();
         let item = $(this).children('input[name=item_id]').val();
@@ -302,6 +317,26 @@
             data: {
                 _token: "{{ csrf_token() }}",
                 shipping_rate: rate,
+                item_id: item
+            },
+            dataType: "dataType",
+            success: function(response) {
+                console.log('hi');
+            }
+        });
+    });
+
+    $('#adjustmentForm').submit(function(e) {
+        e.preventDefault();
+        let rate = $(this).children('input[name=adjustment]').val();
+        let item = $(this).children('input[name=item_id]').val();
+
+        $.ajax({
+            type: "PUT",
+            url: "{{ route('admin.order.adjustment', ' . item . ') }}",
+            data: {
+                _token: "{{ csrf_token() }}",
+                adjustment: rate,
                 item_id: item
             },
             dataType: "dataType",
